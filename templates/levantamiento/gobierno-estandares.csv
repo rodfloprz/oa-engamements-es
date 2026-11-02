@@ -1,0 +1,26 @@
+﻿Sección,Campo,Fila,Columna,Valor,Opciones o ayuda
+Datos de contacto,Organización o cliente,,,,
+Datos de contacto,Nombre de quien responde,,,,
+Datos de contacto,Cargo o rol,,,,
+Datos de contacto,Correo de contacto,,,,Correo
+Datos de contacto,Engagement relacionado,,,,
+Datos de contacto,Fecha,,,,Fecha
+Estándares existentes,¿Existen estándares escritos de observabilidad?,,,,"Opciones: Sí, aplicados; Sí, parcialmente; En elaboración; No"
+Estándares existentes,Temas cubiertos,,,,Opciones: Dashboards; Alertas; Labels; SLOs; Instrumentación; Costos; Seguridad
+Estándares existentes,Responsable de los estándares,,,,
+Estándares existentes,Días que tarda incorporar un equipo nuevo,,,,Número
+Estándares existentes,Herramientas de gobierno,,,,Opciones: Terraform; GitOps; Plantillas de dashboards; Políticas como código; Ninguna
+Candidatos a champions,Champions,1,Nombre,,
+Candidatos a champions,Champions,1,Equipo,,
+Candidatos a champions,Champions,1,Tiempo disponible,,Opciones: Menos de 10%; 10–25%; 26–50%; Más de 50%
+Candidatos a champions,Champions,1,Por qué es buen candidato,,
+Candidatos a champions,Champions,2,Nombre,,
+Candidatos a champions,Champions,2,Equipo,,
+Candidatos a champions,Champions,2,Tiempo disponible,,Opciones: Menos de 10%; 10–25%; 26–50%; Más de 50%
+Candidatos a champions,Champions,2,Por qué es buen candidato,,
+Candidatos a champions,Champions,3,Nombre,,
+Candidatos a champions,Champions,3,Equipo,,
+Candidatos a champions,Champions,3,Tiempo disponible,,Opciones: Menos de 10%; 10–25%; 26–50%; Más de 50%
+Candidatos a champions,Champions,3,Por qué es buen candidato,,
+Patrocinio y barreras,Patrocinador con autoridad entre equipos,,,,
+Patrocinio y barreras,Resistencias o barreras esperadas,,,,Texto libre

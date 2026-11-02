@@ -1,0 +1,32 @@
+﻿Sección,Elemento,Detalle
+General,Fase,"Cost, Security & Governance: Escalar con control"
+General,Estado,Disponible
+General,Esfuerzo estimado del equipo de Grafana,4–8 h
+General,Participantes sugeridos,Líder de plataforma; Equipos dueños de métricas; Responsable de costos
+General,"Workshop sobre Adaptive Metrics de Grafana Cloud: recomendaciones, agregación y comportamiento de consultas, auto-apply, exemptions, segments y gestión por API y Terraform. No requiere trabajo práctico ni cambios en producción.",
+Retos que resuelve,Alta cardinalidad sin gestión,
+Retos que resuelve,Costo de métricas creciendo más rápido que su valor,
+Retos que resuelve,Temor a romper dashboards o alertas al agregar,
+Retos que resuelve,Desconocimiento de las recomendaciones disponibles,
+Entregables obligatorios,Material del workshop,
+Entregables obligatorios,Plan de despliegue con exemptions,
+Entregables opcionales,Reporte de ahorro a 30 días,
+Cómo lo hacemos,1,Preparación: recomendaciones y cardinalidad actuales | 1–2 h
+Cómo lo hacemos,2,"Workshop: recomendaciones, agregación, auto-apply, exemptions y segments | 2–3 h"
+Cómo lo hacemos,3,Demo de gestión por API y Terraform | 0.5–1.5 h
+Cómo lo hacemos,4,Plan de despliegue con exemptions | 0.5–1 h
+Cómo lo hacemos,5,Seguimiento de adopción a 30 días | 0.5 h
+Qué necesitamos de su equipo,Participantes: Líder de plataforma,
+Qué necesitamos de su equipo,Participantes: Equipos dueños de métricas,
+Qué necesitamos de su equipo,Participantes: Responsable de costos,
+Qué necesitamos de su equipo,Información y accesos: Acceso de lectura a Adaptive Metrics,
+Qué necesitamos de su equipo,Información y accesos: Lista de dashboards y alertas críticos,
+Qué necesitamos de su equipo,Información y accesos: Contexto de costos,
+Cómo medimos el éxito,Satisfacción del workshop (8 de 10 o más),
+Cómo medimos el éxito,% de adopción de la función a 30 días,
+Cómo medimos el éxito,% de reducción de DPM posterior,
+Cómo medimos el éxito,Ahorro estimado documentado (USD),
+Artefactos de levantamiento de información,Costos y consumo de observabilidad,"Levantar el consumo actual, los principales generadores de costo y el nivel de gobierno de costos, para explicar la factura y priorizar las palancas de ahorro."
+Artefactos de levantamiento de información,"Telemetría, agentes y collectors","Conocer qué señales recolectan, con qué agentes y con qué cobertura, para diseñar la topología de collectors, el muestreo y la reducción de ingesta."
+Artefactos de levantamiento de información,Dashboards y consumo de datos,"Entender cuántos dashboards existen, quién los usa y qué preguntas de negocio quisieran responder, para rediseñar y gobernar los más importantes."
+Artefactos de levantamiento de información,Convenciones de nombres y labels,Documentar los labels y convenciones que usan hoy los equipos para definir un estándar común que permita correlacionar señales y controlar la cardinalidad.

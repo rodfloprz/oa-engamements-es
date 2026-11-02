@@ -1,0 +1,38 @@
+﻿Sección,Elemento,Detalle
+General,"Medimos el valor con KPIs acordados antes de empezar. Nunca se reclama una mejora sin datos de antes y después con la misma definición y metodología: sin línea base documentada, no hay valor demostrable.",
+Los cuatro drivers de valor,Reliability,"Reducción de MTTR, tiempo de caída evitado, cumplimiento de SLA, menos incidentes visibles para sus clientes"
+Los cuatro drivers de valor,Cost efficiency,"Reducción de DPM y cardinalidad, consolidación de herramientas, ahorro de Adaptive Telemetry, horas de ingeniería recuperadas"
+Los cuatro drivers de valor,Developer velocity,"Menor MTTD, mayor frecuencia de despliegue, menor tiempo de onboarding, menos ruido de alertas"
+Los cuatro drivers de valor,Business growth,"Ingreso protegido frente a caídas, mejora de experiencia del cliente, menor time-to-market, penalidades evitadas"
+Niveles de evidencia,A,"Documento contable o contractual | Facturas, dashboard de facturación, contratos cancelados | Como hecho, con adjunto"
+Niveles de evidencia,B,"Sistema de registro con línea base y definición estable | ServiceNow o Jira, Grafana SLO, PagerDuty o Alertmanager | Como atribuible, con antes y después"
+Niveles de evidencia,C,"Estimado validado por el cliente | Encuestas, estimados de liderazgo de ingeniería | Como estimado, con rango y supuestos"
+Niveles de evidencia,D,Proyección o hipótesis | Ahorro de una consolidación aún no ejecutada | Solo en planes; no entra en el ROI reportado
+Protocolo de línea base,"Definir la métrica con precisión (por ejemplo, MTTR como mediana, solo incidentes graves).",
+Protocolo de línea base,Elegir el sistema de registro y la persona responsable del dato en su organización.,
+Protocolo de línea base,"Congelar la ventana: al menos 90 días previos al arranque, con las mismas severidades.",
+Protocolo de línea base,Capturar la evidencia con fecha y archivarla.,
+Protocolo de línea base,Acordar línea base y meta dentro del Success Plan.,
+Protocolo de línea base,Medir de nuevo al cierre con una ventana de la misma duración y la misma definición.,
+Fórmulas y reglas de evidencia,Valor de reducción de MTTR,"(MTTR base − MTTR actual) × incidentes al año × ingreso por hora afectado | Tickets (misma severidad), postmortems, historial de paging | Usar mediana, no promedio, y la misma definición en ambos periodos. Acordar el % de ingreso realmente afectado. | B"
+Fórmulas y reglas de evidencia,Ingreso protegido,"Horas de caída evitadas × ingreso por hora | Status page, registros de incidentes, synthetic checks | El cliente valida su propio ingreso por hora. | B"
+Fórmulas y reglas de evidencia,Ahorro en Grafana Cloud,"(DPM base − DPM actual) × costo por DPM + ahorro de retención + ahorro de Adaptive Telemetry no incluido en la reducción de DPM | Dashboard de facturación, facturas | Usar la tarifa efectiva de la factura. No contar dos veces el mismo ahorro. | A"
+Fórmulas y reglas de evidencia,Ahorro por consolidación de herramientas,"Σ licencias retiradas − costo incremental de Grafana | Contratos cancelados, facturas antes y después | Requiere retiro confirmado, no proyectado. | A"
+Fórmulas y reglas de evidencia,Productividad de ingeniería recuperada,"(Horas antes − horas después) × personas afectadas × costo por hora con carga | Encuestas, estimados de liderazgo, líneas de tiempo de postmortems | Se presenta como estimado basado en entrevistas. | C"
+Fórmulas y reglas de evidencia,Reducción de ruido de alertas,"(Alertas antes − alertas después) ÷ alertas antes × 100 | Registros de PagerDuty o Alertmanager, historial de Grafana | Validar que no aumentaron los falsos negativos. | B"
+Fórmulas y reglas de evidencia,Mejora de SLO attainment,"SLO actual % − SLO base % | Dashboard de Grafana SLO, términos de SLA | Requiere SLOs definidos antes del engagement. | B"
+Fórmulas y reglas de evidencia,Penalidades de SLA evitadas,Incumplimientos al año antes × penalidad promedio | Contrato SLA e historial de penalidades pagadas | Solo con contrato y penalidades documentadas. | A o B
+Fórmulas y reglas de evidencia,Tiempo de onboarding con CoE,"(Días antes − días después) × equipos al año × costo diario por persona | Equipos incorporados antes y después, encuestas | Medir con al menos dos equipos antes y dos después. | C"
+Ejemplos numéricos,Reducción de MTTR de 60 a 30 minutos,"0.5 h × 48 incidentes × USD 50,000 por hora | USD 1,200,000"
+Ejemplos numéricos,Productividad recuperada,"0.5 h × 48 incidentes × 5 personas × USD 120 por hora | USD 14,400"
+Ejemplos numéricos,Consolidación de herramientas,"Herramienta A 200K + herramienta B 150K − Grafana 250K | USD 100,000"
+Reglas para no inflar el retorno,"No duplicar horas: si el mismo tiempo de incidente alimenta dos beneficios, documentar por qué son flujos distintos.",
+Reglas para no inflar el retorno,"Atribución explícita: si hubo otros cambios en el periodo, acordar qué parte se atribuye al engagement.",
+Reglas para no inflar el retorno,"Mediana, no promedio, y siempre la misma severidad en ambos periodos.",
+Reglas para no inflar el retorno,Lo proyectado no cuenta: una consolidación sin retiro confirmado es nivel D.,
+Reglas para no inflar el retorno,"Mostrar rangos con supuestos, no una cifra con falsa precisión.",
+Reglas para no inflar el retorno,"Sus datos los valida su equipo: ingreso por hora, costo por persona y penalidades.",
+Plantilla de declaración de valor,"[Cliente] redujo su MTTR de [X min] a [Y min] ([Z%] de mejora) en los últimos 12 meses. Fuente: datos de tickets, mismo método de medición en ambos periodos.",
+Plantilla de declaración de valor,"Con Adaptive Metrics y la optimización de cardinalidad, [Cliente] redujo su DPM en [X%], con un ahorro anual de USD [Y]. Fuente: dashboard de facturación y facturas.",
+Plantilla de declaración de valor,"La consolidación de [N herramientas] eliminó USD [X] en licencias anuales, con un ahorro neto de USD [Y] tras el costo de Grafana. Fuente: contratos cancelados.",
+Plantilla de declaración de valor,Los SLOs de los [N] servicios críticos mantienen un attainment de [X%] en el último trimestre. Fuente: dashboard de SLO y contrato de SLA.,

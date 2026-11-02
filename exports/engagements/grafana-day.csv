@@ -1,0 +1,33 @@
+﻿Sección,Elemento,Detalle
+General,Fase,Enable & Adopt: Construir capacidad duradera
+General,Estado,Disponible
+General,Esfuerzo estimado del equipo de Grafana,16–24 h
+General,Participantes sugeridos,Patrocinador ejecutivo; Technical Champion; Asistentes de los equipos convocados
+General,"Sesiones interactivas de un día completo, personalizadas para impulsar una habilitación amplia o enfocarse en los temas clave de su organización.",
+Retos que resuelve,Adopción limitada a un grupo reducido,
+Retos que resuelve,Necesidad de alinear a muchos equipos a la vez,
+Retos que resuelve,Conocimiento teórico sin práctica sobre sus datos,
+Retos que resuelve,Falta de un momento de impulso en la cuenta,
+Entregables obligatorios,Agenda personalizada,
+Entregables obligatorios,Labs y demos con sus datos,
+Entregables opcionales,Grabaciones y materiales,
+Entregables opcionales,Reporte de satisfacción y adopción,
+Cómo lo hacemos,1,Descubrimiento de objetivos y audiencia | 2–3 h
+Cómo lo hacemos,2,Diseño de agenda con tracks por rol | 2–3 h
+Cómo lo hacemos,3,Preparación de labs y demos con sus datos | 4–6 h
+Cómo lo hacemos,4,Logística y comunicación | 1 h
+Cómo lo hacemos,5,Ejecución del evento (un día) | 6–8 h
+Cómo lo hacemos,6,Seguimiento y medición de satisfacción | 1–2 h
+Qué necesitamos de su equipo,Participantes: Patrocinador ejecutivo,
+Qué necesitamos de su equipo,Participantes: Technical Champion,
+Qué necesitamos de su equipo,Participantes: Asistentes de los equipos convocados,
+Qué necesitamos de su equipo,Información y accesos: Objetivos de la jornada,
+Qué necesitamos de su equipo,Información y accesos: Lista de asistentes por rol,
+Qué necesitamos de su equipo,Información y accesos: Sala o plataforma virtual y accesos para los labs,
+Cómo medimos el éxito,Satisfacción del evento (8 de 10 o más),
+Cómo medimos el éxito,Nuevos usuarios activos posteriores,
+Cómo medimos el éxito,% de asistentes que aplican una práctica a 30 días,
+Cómo medimos el éxito,Nº de equipos nuevos incorporados,
+Artefactos de levantamiento de información,Objetivos y logística del evento,"Acordar los objetivos, la audiencia y la logística de una jornada de enablement para preparar una agenda y labs a la medida."
+Artefactos de levantamiento de información,Audiencias y necesidades de capacitación,"Identificar a quién hay que capacitar, con qué nivel y en qué formato, para diseñar rutas de aprendizaje y jornadas a la medida."
+Artefactos de levantamiento de información,Organigrama y datos organizacionales,"Conocer la estructura de su organización en lo que respecta al negocio y a la observabilidad: quién patrocina, quién decide, quién opera y quién usa la plataforma, para dirigir cada conversación a la persona correcta."

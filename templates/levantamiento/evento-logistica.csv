@@ -1,0 +1,18 @@
+﻿Sección,Campo,Fila,Columna,Valor,Opciones o ayuda
+Datos de contacto,Organización o cliente,,,,
+Datos de contacto,Nombre de quien responde,,,,
+Datos de contacto,Cargo o rol,,,,
+Datos de contacto,Correo de contacto,,,,Correo
+Datos de contacto,Engagement relacionado,,,,
+Datos de contacto,Fecha,,,,Fecha
+Objetivos,Resultado esperado de la jornada,,,,Texto libre
+Objetivos,Temas,,,,Opciones: Trazas; SLOs; Alertas; Dashboards; Costos; OpenTelemetry y Alloy; Grafana Assistant y MCP; Kubernetes; Otro
+Objetivos,Roles y equipos que participarán,,,,Texto libre
+Logística,Asistentes esperados,,,,Número
+Logística,Formato,,,,Opciones: Presencial; Virtual; Híbrido
+Logística,Fechas posibles,,,,
+Logística,Sede o plataforma,,,,
+Logística,Datos para los labs,,,,Opciones: Sus propios datos; Una stack de pruebas; Aún no lo sé
+Logística,Idioma,,,,Opciones: Español; Inglés; Portugués; Bilingüe
+Logística,Restricciones de acceso o seguridad para los labs,,,,Texto libre
+Logística,Contacto de logística en su organización,,,,

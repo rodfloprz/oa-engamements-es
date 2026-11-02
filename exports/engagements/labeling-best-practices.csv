@@ -1,0 +1,32 @@
+﻿Sección,Elemento,Detalle
+General,Fase,Data & Architecture: Crear una base sólida de señales
+General,Estado,Disponible
+General,Esfuerzo estimado del equipo de Grafana,10–18 h
+General,Participantes sugeridos,Equipo de plataforma; Dueños de servicio; Technical Champion
+General,"Definimos una estrategia de labels consistente para métricas, logs y trazas, con nombres, valores permitidos y límites de cardinalidad, para poder correlacionar señales y controlar el costo.",
+Retos que resuelve,Labels inconsistentes entre equipos,
+Retos que resuelve,Dificultad para correlacionar señales de un mismo servicio,
+Retos que resuelve,Cardinalidad que crece sin control,
+Retos que resuelve,Reglas de acceso difíciles de mantener por falta de labels confiables,
+Entregables obligatorios,Guía de labels,
+Entregables obligatorios,Reglas de etiquetado del piloto,
+Entregables opcionales,Taxonomía de labels obligatorios y opcionales,
+Entregables opcionales,Reporte de cumplimiento,
+Cómo lo hacemos,1,Auditoría de labels actuales por señal | 2–4 h
+Cómo lo hacemos,2,"Definición del estándar: nombres, obligatorios y límites de cardinalidad | 3–5 h"
+Cómo lo hacemos,3,Workshop con equipos de desarrollo y plataforma | 2–3 h
+Cómo lo hacemos,4,Piloto de reglas de etiquetado en collectors | 2–4 h
+Cómo lo hacemos,5,"Gobierno: validación, documentación y revisión | 1–2 h"
+Qué necesitamos de su equipo,Participantes: Equipo de plataforma,
+Qué necesitamos de su equipo,Participantes: Dueños de servicio,
+Qué necesitamos de su equipo,Participantes: Technical Champion,
+Qué necesitamos de su equipo,"Información y accesos: Acceso a los datos actuales de métricas, logs y trazas",
+Qué necesitamos de su equipo,Información y accesos: Convenciones de nombres existentes,
+Qué necesitamos de su equipo,Información y accesos: Lista de equipos y servicios,
+Cómo medimos el éxito,% de labels que cumplen el estándar,
+Cómo medimos el éxito,Reducción de series con cardinalidad excesiva,
+Cómo medimos el éxito,% de servicios con labels obligatorios,
+Cómo medimos el éxito,Tiempo para correlacionar señales en un incidente,
+Artefactos de levantamiento de información,Convenciones de nombres y labels,Documentar los labels y convenciones que usan hoy los equipos para definir un estándar común que permita correlacionar señales y controlar la cardinalidad.
+Artefactos de levantamiento de información,"Telemetría, agentes y collectors","Conocer qué señales recolectan, con qué agentes y con qué cobertura, para diseñar la topología de collectors, el muestreo y la reducción de ingesta."
+Artefactos de levantamiento de información,Gobierno y estándares de observabilidad,"Conocer qué estándares, responsables y champions existen para sostener una práctica común de observabilidad entre equipos, y qué barreras hay para establecerla."

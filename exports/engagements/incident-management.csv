@@ -1,0 +1,38 @@
+﻿Sección,Elemento,Detalle
+General,Fase,Reliability & Response: Proteger los journeys del cliente
+General,Estado,En desarrollo
+General,Esfuerzo estimado del equipo de Grafana,16–24 h
+General,Participantes sugeridos,Líder de operaciones; Equipo de guardia (on-call); Líderes de ingeniería
+General,"Creamos runbooks, un flujo de incident command, revisiones posteriores a incidentes e integraciones de herramientas para una respuesta ágil y consistente.",
+Retos que resuelve,MTTR alto,
+Retos que resuelve,Proceso de incidentes inconsistente entre equipos,
+Retos que resuelve,Postmortems no estructurados,
+Retos que resuelve,Roles poco claros durante incidentes mayores,
+Retos que resuelve,"Integraciones manuales entre alertas, chat y tickets",
+Entregables obligatorios,Runbooks priorizados,
+Entregables obligatorios,Guía de incident command,
+Entregables opcionales,Plantilla de postmortem,
+Entregables opcionales,Integraciones configuradas,
+Entregables opcionales,Reporte del simulacro,
+Entregables opcionales,Línea base de MTTR,
+Cómo lo hacemos,1,"Diagnóstico del proceso actual: roles, severidades y herramientas | 2–3 h"
+Cómo lo hacemos,2,Runbooks para los incidentes prioritarios | 4–6 h
+Cómo lo hacemos,3,"Flujo de incident command: roles, severidad y comunicación | 3–4 h"
+Cómo lo hacemos,4,"Integraciones entre alertas, chat y tickets | 3–5 h"
+Cómo lo hacemos,5,Simulacro (game day) | 2–3 h
+Cómo lo hacemos,6,Plantilla de postmortem y cadencia de revisión | 1–2 h
+Cómo lo hacemos,7,Línea base de MTTR | 1 h
+Qué necesitamos de su equipo,Participantes: Líder de operaciones,
+Qué necesitamos de su equipo,Participantes: Equipo de guardia (on-call),
+Qué necesitamos de su equipo,Participantes: Líderes de ingeniería,
+Qué necesitamos de su equipo,Información y accesos: Registro de incidentes con severidad y tiempos,
+Qué necesitamos de su equipo,Información y accesos: Plantilla actual de postmortem (si existe),
+Qué necesitamos de su equipo,Información y accesos: Runbooks existentes,
+Cómo medimos el éxito,% de reducción de MTTR,
+Cómo medimos el éxito,% de incidentes con postmortem completado,
+Cómo medimos el éxito,% de incidentes mayores con runbook,
+Cómo medimos el éxito,% de acciones de postmortem cerradas en plazo,
+Artefactos de levantamiento de información,Incidentes y MTTR,"Documentar cómo gestionan los incidentes y cuál ha sido su historial reciente, para establecer la línea base de MTTR y priorizar runbooks y mejoras de proceso."
+Artefactos de levantamiento de información,Alertas y guardia (on-call),"Medir el volumen y la calidad de las alertas y entender cómo funciona la guardia, para reducir ruido, enriquecer las alertas con contexto y ordenar el escalamiento."
+Artefactos de levantamiento de información,Organigrama y datos organizacionales,"Conocer la estructura de su organización en lo que respecta al negocio y a la observabilidad: quién patrocina, quién decide, quién opera y quién usa la plataforma, para dirigir cada conversación a la persona correcta."
+Artefactos de levantamiento de información,Herramientas de observabilidad y monitoreo,"Inventariar las herramientas de monitoreo y observabilidad en uso, incluidos los productos de Grafana, para entender el panorama, los traslapes y las oportunidades de consolidación."

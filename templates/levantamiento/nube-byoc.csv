@@ -1,0 +1,33 @@
+﻿Sección,Campo,Fila,Columna,Valor,Opciones o ayuda
+Datos de contacto,Organización o cliente,,,,
+Datos de contacto,Nombre de quien responde,,,,
+Datos de contacto,Cargo o rol,,,,
+Datos de contacto,Correo de contacto,,,,Correo
+Datos de contacto,Engagement relacionado,,,,
+Datos de contacto,Fecha,,,,Fecha
+Entorno de nube,Proveedor de nube,,,,Opciones: AWS; Azure; Google Cloud; Oracle Cloud; Otra
+Entorno de nube,"Cuentas, suscripciones o proyectos involucrados",,,,Texto libre
+Entorno de nube,Regiones,,,,
+Entorno de nube,Topología de red y conectividad privada,,,,Texto libre
+Entorno de nube,Cuotas o límites conocidos,,,,Texto libre
+Entorno de nube,Restricciones de residencia de datos o cumplimiento,,,,
+Aprobaciones,Aprobaciones requeridas,1,Aprobación,,
+Aprobaciones,Aprobaciones requeridas,1,Responsable,,
+Aprobaciones,Aprobaciones requeridas,1,Días de trámite,,Número
+Aprobaciones,Aprobaciones requeridas,1,Estado,,Opciones: Pendiente; En curso; Aprobada; No aplica
+Aprobaciones,Aprobaciones requeridas,2,Aprobación,,
+Aprobaciones,Aprobaciones requeridas,2,Responsable,,
+Aprobaciones,Aprobaciones requeridas,2,Días de trámite,,Número
+Aprobaciones,Aprobaciones requeridas,2,Estado,,Opciones: Pendiente; En curso; Aprobada; No aplica
+Aprobaciones,Aprobaciones requeridas,3,Aprobación,,
+Aprobaciones,Aprobaciones requeridas,3,Responsable,,
+Aprobaciones,Aprobaciones requeridas,3,Días de trámite,,Número
+Aprobaciones,Aprobaciones requeridas,3,Estado,,Opciones: Pendiente; En curso; Aprobada; No aplica
+Aprobaciones,Aprobaciones requeridas,4,Aprobación,,
+Aprobaciones,Aprobaciones requeridas,4,Responsable,,
+Aprobaciones,Aprobaciones requeridas,4,Días de trámite,,Número
+Aprobaciones,Aprobaciones requeridas,4,Estado,,Opciones: Pendiente; En curso; Aprobada; No aplica
+Operación y aceptación,Quién operará el entorno después de la entrega,,,,
+Operación y aceptación,Criterios de aceptación (UAT),,,,Texto libre
+Operación y aceptación,"Fechas objetivo (readiness, construcción, UAT, entrega)",,,,
+Operación y aceptación,Ventanas de cambio,,,,

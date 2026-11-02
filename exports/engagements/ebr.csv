@@ -1,0 +1,37 @@
+﻿Sección,Elemento,Detalle
+General,Fase,Growth & Value: Demostrar impacto y expandir resultados
+General,Estado,En desarrollo
+General,Esfuerzo estimado del equipo de Grafana,8–16 h
+General,Participantes sugeridos,Patrocinador ejecutivo; Technical Champion; Responsable de finanzas (para validar cifras)
+General,"Revisión trimestral que conecta confiabilidad con resultados de negocio: tendencias de SLO, impacto de incidentes en ingresos y experiencia, y retorno del trabajo de observabilidad. Dirigida a patrocinadores ejecutivos.",
+Retos que resuelve,Valor no demostrado ante la renovación,
+Retos que resuelve,Inversión sin conexión con resultados,
+Retos que resuelve,Sin historia de progreso documentada,
+Retos que resuelve,Falta de visibilidad ejecutiva del avance,
+Entregables obligatorios,Deck de EBR (10 a 15 láminas),
+Entregables obligatorios,Scorecard trimestral de KPIs,
+Entregables opcionales,Declaración de valor de negocio,
+Entregables opcionales,Lámina de alineación del roadmap,
+Entregables opcionales,Revisión trimestral del Success Plan,
+Cómo lo hacemos,1,"Recopilación de datos: KPIs, SLO, incidentes y consumo | 3–5 h"
+Cómo lo hacemos,2,Cálculo de valor y narrativa | 2–4 h
+Cómo lo hacemos,3,Pre-alineación con el patrocinador | 0.5–1.5 h
+Cómo lo hacemos,4,Deck de 10 a 15 láminas | 2–3 h
+Cómo lo hacemos,5,Sesión de EBR | 1–1.5 h
+Cómo lo hacemos,6,Seguimiento y actualización del Success Plan | 0.5–1 h
+Qué necesitamos de su equipo,Participantes: Patrocinador ejecutivo,
+Qué necesitamos de su equipo,Participantes: Technical Champion,
+Qué necesitamos de su equipo,Participantes: Responsable de finanzas (para validar cifras),
+Qué necesitamos de su equipo,Información y accesos: Datos de incidentes y SLO del trimestre,
+Qué necesitamos de su equipo,"Información y accesos: Cifras financieras que el cliente valida (por ejemplo, ingreso por hora)",
+Qué necesitamos de su equipo,Información y accesos: Prioridades de negocio para los próximos 90 días,
+Cómo medimos el éxito,Tendencia de SLO attainment (4 trimestres),
+Cómo medimos el éxito,% de mejora de MTTR interanual,
+Cómo medimos el éxito,Ingreso protegido,
+Cómo medimos el éxito,Retorno de la inversión (ROI),
+Cómo medimos el éxito,Expansión de uso (equipos y productos nuevos),
+Artefactos de levantamiento de información,Objetivos y expectativas de negocio,"Entender qué resultados de negocio persigue su organización y qué iniciativas estratégicas dependen de la observabilidad, para que el Success Plan y los engagements se midan contra lo que importa."
+Artefactos de levantamiento de información,Datos para el cálculo de valor y línea base de KPIs,"Reunir los valores de partida (con definición, ventana y fuente) y los datos financieros que su equipo valida, para poder demostrar el retorno con evidencia."
+Artefactos de levantamiento de información,Incidentes y MTTR,"Documentar cómo gestionan los incidentes y cuál ha sido su historial reciente, para establecer la línea base de MTTR y priorizar runbooks y mejoras de proceso."
+Artefactos de levantamiento de información,"SLAs, SLOs y journeys críticos","Recopilar los compromisos de servicio, los SLOs ya existentes y las prácticas de presupuesto de error, para definir SLOs alineados con el impacto en el usuario."
+Artefactos de levantamiento de información,Capacidades de Grafana en uso,"Mapear qué capacidades de Grafana usa cada equipo y cuáles están disponibles sin aprovechar, para priorizar un plan de adopción ligado a sus resultados."

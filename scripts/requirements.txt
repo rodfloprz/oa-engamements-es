@@ -1,0 +1,3 @@
+# Solo necesario para generar los PDF (python scripts/build.py).
+# Después de instalar: python -m playwright install chromium
+playwright>=1.40

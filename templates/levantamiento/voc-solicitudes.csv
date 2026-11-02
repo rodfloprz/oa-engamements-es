@@ -1,0 +1,30 @@
+﻿Sección,Campo,Fila,Columna,Valor,Opciones o ayuda
+Datos de contacto,Organización o cliente,,,,
+Datos de contacto,Nombre de quien responde,,,,
+Datos de contacto,Cargo o rol,,,,
+Datos de contacto,Correo de contacto,,,,Correo
+Datos de contacto,Engagement relacionado,,,,
+Datos de contacto,Fecha,,,,Fecha
+Solicitudes abiertas,Solicitudes,1,Título,,
+Solicitudes abiertas,Solicitudes,1,Descripción,,
+Solicitudes abiertas,Solicitudes,1,Impacto de negocio,,
+Solicitudes abiertas,Solicitudes,1,Prioridad,,Opciones: Alta; Media; Baja
+Solicitudes abiertas,Solicitudes,1,Referencia o caso,,
+Solicitudes abiertas,Solicitudes,2,Título,,
+Solicitudes abiertas,Solicitudes,2,Descripción,,
+Solicitudes abiertas,Solicitudes,2,Impacto de negocio,,
+Solicitudes abiertas,Solicitudes,2,Prioridad,,Opciones: Alta; Media; Baja
+Solicitudes abiertas,Solicitudes,2,Referencia o caso,,
+Solicitudes abiertas,Solicitudes,3,Título,,
+Solicitudes abiertas,Solicitudes,3,Descripción,,
+Solicitudes abiertas,Solicitudes,3,Impacto de negocio,,
+Solicitudes abiertas,Solicitudes,3,Prioridad,,Opciones: Alta; Media; Baja
+Solicitudes abiertas,Solicitudes,3,Referencia o caso,,
+Solicitudes abiertas,Solicitudes,4,Título,,
+Solicitudes abiertas,Solicitudes,4,Descripción,,
+Solicitudes abiertas,Solicitudes,4,Impacto de negocio,,
+Solicitudes abiertas,Solicitudes,4,Prioridad,,Opciones: Alta; Media; Baja
+Solicitudes abiertas,Solicitudes,4,Referencia o caso,,
+Seguimiento,Alternativas o soluciones temporales en uso,,,,Texto libre
+Seguimiento,Frecuencia deseada de revisión,,,,Opciones: Mensual; Trimestral; Semestral
+Seguimiento,Contactos para seguimiento,,,,

@@ -1,0 +1,25 @@
+﻿Sección,Campo,Fila,Columna,Valor,Opciones o ayuda
+Datos de contacto,Organización o cliente,,,,
+Datos de contacto,Nombre de quien responde,,,,
+Datos de contacto,Cargo o rol,,,,
+Datos de contacto,Correo de contacto,,,,Correo
+Datos de contacto,Engagement relacionado,,,,
+Datos de contacto,Fecha,,,,Fecha
+Iniciativas estratégicas,Iniciativas u OKRs,1,Iniciativa u OKR,,
+Iniciativas estratégicas,Iniciativas u OKRs,1,Responsable,,
+Iniciativas estratégicas,Iniciativas u OKRs,1,Fecha objetivo,,Fecha
+Iniciativas estratégicas,Iniciativas u OKRs,1,Cómo ayuda la observabilidad,,
+Iniciativas estratégicas,Iniciativas u OKRs,2,Iniciativa u OKR,,
+Iniciativas estratégicas,Iniciativas u OKRs,2,Responsable,,
+Iniciativas estratégicas,Iniciativas u OKRs,2,Fecha objetivo,,Fecha
+Iniciativas estratégicas,Iniciativas u OKRs,2,Cómo ayuda la observabilidad,,
+Iniciativas estratégicas,Iniciativas u OKRs,3,Iniciativa u OKR,,
+Iniciativas estratégicas,Iniciativas u OKRs,3,Responsable,,
+Iniciativas estratégicas,Iniciativas u OKRs,3,Fecha objetivo,,Fecha
+Iniciativas estratégicas,Iniciativas u OKRs,3,Cómo ayuda la observabilidad,,
+Resultados esperados,¿Qué resultado de negocio indicaría que la inversión fue exitosa?,,,,Texto libre
+Resultados esperados,Eventos que motivan este trabajo,,,,Opciones: Incidente mayor reciente; Auditoría o cumplimiento; Renovación de contrato; Migración a la nube o modernización; Lanzamiento de producto; Reducción de costos; Consolidación de herramientas; Mejora de la experiencia del cliente; Otro
+Resultados esperados,Prioridades principales (hasta 3),,,,Opciones: Confiabilidad y MTTR; Costos; Velocidad de desarrollo; Cumplimiento y seguridad; Adopción y habilitación; Visibilidad ejecutiva
+Restricciones y plazos,Fecha o plazo clave,,,,
+Restricciones y plazos,"Restricciones (presupuesto, ventanas de cambio, regulación, recursos)",,,,Texto libre
+Restricciones y plazos,Riesgos que ve en el proyecto,,,,Texto libre

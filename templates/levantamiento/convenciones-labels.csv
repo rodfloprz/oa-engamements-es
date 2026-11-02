@@ -1,0 +1,43 @@
+﻿Sección,Campo,Fila,Columna,Valor,Opciones o ayuda
+Datos de contacto,Organización o cliente,,,,
+Datos de contacto,Nombre de quien responde,,,,
+Datos de contacto,Cargo o rol,,,,
+Datos de contacto,Correo de contacto,,,,Correo
+Datos de contacto,Engagement relacionado,,,,
+Datos de contacto,Fecha,,,,Fecha
+Convención actual,¿Existe una convención de nombres y labels?,,,,"Opciones: Sí, documentada y aplicada; Sí, pero no se aplica; En elaboración; No"
+Convención actual,Responsable del estándar,,,,
+Convención actual,¿Dónde se aplican los labels?,,,,Opciones: En la aplicación; En el collector; En la plataforma; En varios lugares; No se aplican de forma consistente
+Labels en uso,Labels,1,Label,service.name,
+Labels en uso,Labels,1,Señal,,Opciones: Métricas; Logs; Trazas; Varias
+Labels en uso,Labels,1,Valores de ejemplo,,
+Labels en uso,Labels,1,Equipos que lo usan,,
+Labels en uso,Labels,1,Estado,,Opciones: Obligatorio; Opcional; No definido
+Labels en uso,Labels,2,Label,deployment.environment,
+Labels en uso,Labels,2,Señal,,Opciones: Métricas; Logs; Trazas; Varias
+Labels en uso,Labels,2,Valores de ejemplo,,
+Labels en uso,Labels,2,Equipos que lo usan,,
+Labels en uso,Labels,2,Estado,,Opciones: Obligatorio; Opcional; No definido
+Labels en uso,Labels,3,Label,team,
+Labels en uso,Labels,3,Señal,,Opciones: Métricas; Logs; Trazas; Varias
+Labels en uso,Labels,3,Valores de ejemplo,,
+Labels en uso,Labels,3,Equipos que lo usan,,
+Labels en uso,Labels,3,Estado,,Opciones: Obligatorio; Opcional; No definido
+Labels en uso,Labels,4,Label,cluster,
+Labels en uso,Labels,4,Señal,,Opciones: Métricas; Logs; Trazas; Varias
+Labels en uso,Labels,4,Valores de ejemplo,,
+Labels en uso,Labels,4,Equipos que lo usan,,
+Labels en uso,Labels,4,Estado,,Opciones: Obligatorio; Opcional; No definido
+Labels en uso,Labels,5,Label,namespace,
+Labels en uso,Labels,5,Señal,,Opciones: Métricas; Logs; Trazas; Varias
+Labels en uso,Labels,5,Valores de ejemplo,,
+Labels en uso,Labels,5,Equipos que lo usan,,
+Labels en uso,Labels,5,Estado,,Opciones: Obligatorio; Opcional; No definido
+Labels en uso,Labels,6,Label,version,
+Labels en uso,Labels,6,Señal,,Opciones: Métricas; Logs; Trazas; Varias
+Labels en uso,Labels,6,Valores de ejemplo,,
+Labels en uso,Labels,6,Equipos que lo usan,,
+Labels en uso,Labels,6,Estado,,Opciones: Obligatorio; Opcional; No definido
+Problemas conocidos,Métricas o logs con cardinalidad excesiva,,,,Texto libre
+Problemas conocidos,¿Usan labels para controlar el acceso a los datos?,,,,Opciones: Sí; No; Lo estamos evaluando
+Problemas conocidos,Problemas al correlacionar señales entre equipos,,,,Texto libre

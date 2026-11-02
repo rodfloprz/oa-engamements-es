@@ -1,0 +1,31 @@
+﻿Sección,Elemento,Detalle
+General,Fase,Growth & Value: Demostrar impacto y expandir resultados
+General,Estado,Disponible
+General,Esfuerzo estimado del equipo de Grafana,4–8 h
+General,Participantes sugeridos,Technical Champion; Líderes de equipos; Patrocinador
+General,"Revisamos qué capacidades de Grafana usan hoy y cuáles tienen disponibles sin aprovechar, y proponemos cómo adoptar las que más contribuyen a sus resultados, ordenadas por caso de uso.",
+Retos que resuelve,Capacidades disponibles que no se usan,
+Retos que resuelve,Novedades del catálogo que no llegan a los equipos,
+Retos que resuelve,Adopción desigual entre equipos,
+Retos que resuelve,Oportunidades de mejora sin relación con resultados,
+Entregables obligatorios,Mapa de uso y capacidades sin aprovechar,
+Entregables obligatorios,Plan de adopción,
+Entregables opcionales,Lista priorizada de oportunidades,
+Cómo lo hacemos,1,Análisis de consumo y adopción por capacidad | 1–2 h
+Cómo lo hacemos,2,Cruce con el catálogo y novedades relevantes | 1–2 h
+Cómo lo hacemos,3,Validación técnica y priorización por caso de uso | 1–1.5 h
+Cómo lo hacemos,4,Presentación a su equipo | 0.5–1.5 h
+Cómo lo hacemos,5,Plan de adopción y seguimiento | 0.5–1 h
+Qué necesitamos de su equipo,Participantes: Technical Champion,
+Qué necesitamos de su equipo,Participantes: Líderes de equipos,
+Qué necesitamos de su equipo,Participantes: Patrocinador,
+Qué necesitamos de su equipo,Información y accesos: Acceso a datos de consumo,
+Qué necesitamos de su equipo,Información y accesos: Success Plan vigente,
+Qué necesitamos de su equipo,Información y accesos: Prioridades de los equipos,
+Cómo medimos el éxito,Nº de capacidades nuevas adoptadas,
+Cómo medimos el éxito,% de oportunidades validadas con su equipo,
+Cómo medimos el éxito,Usuarios activos por capacidad,
+Artefactos de levantamiento de información,Capacidades de Grafana en uso,"Mapear qué capacidades de Grafana usa cada equipo y cuáles están disponibles sin aprovechar, para priorizar un plan de adopción ligado a sus resultados."
+Artefactos de levantamiento de información,Herramientas de observabilidad y monitoreo,"Inventariar las herramientas de monitoreo y observabilidad en uso, incluidos los productos de Grafana, para entender el panorama, los traslapes y las oportunidades de consolidación."
+Artefactos de levantamiento de información,Audiencias y necesidades de capacitación,"Identificar a quién hay que capacitar, con qué nivel y en qué formato, para diseñar rutas de aprendizaje y jornadas a la medida."
+Artefactos de levantamiento de información,Objetivos y expectativas de negocio,"Entender qué resultados de negocio persigue su organización y qué iniciativas estratégicas dependen de la observabilidad, para que el Success Plan y los engagements se midan contra lo que importa."

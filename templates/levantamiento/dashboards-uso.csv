@@ -1,0 +1,38 @@
+﻿Sección,Campo,Fila,Columna,Valor,Opciones o ayuda
+Datos de contacto,Organización o cliente,,,,
+Datos de contacto,Nombre de quien responde,,,,
+Datos de contacto,Cargo o rol,,,,
+Datos de contacto,Correo de contacto,,,,Correo
+Datos de contacto,Engagement relacionado,,,,
+Datos de contacto,Fecha,,,,Fecha
+Panorama,Dashboards existentes,,,,"Opciones: Menos de 50; 50–200; 201–1,000; Más de 1,000; No lo sé"
+Panorama,% que se consulta cada semana,,,,Opciones: Menos de 10%; 10–30%; 31–60%; Más de 60%; No lo sé
+Panorama,¿Dashboards como código?,,,,Opciones: Sí; Parcial; No
+Panorama,¿Hay dashboards duplicados?,,,,Opciones: Pocos; Algunos; Muchos; No lo sé
+Dashboards clave,Dashboards,1,Nombre,,
+Dashboards clave,Dashboards,1,Audiencia,,
+Dashboards clave,Dashboards,1,Frecuencia de uso,,Opciones: Diaria; Semanal; Mensual; Rara vez
+Dashboards clave,Dashboards,1,Responsable,,
+Dashboards clave,Dashboards,1,Pregunta que responde,,
+Dashboards clave,Dashboards,2,Nombre,,
+Dashboards clave,Dashboards,2,Audiencia,,
+Dashboards clave,Dashboards,2,Frecuencia de uso,,Opciones: Diaria; Semanal; Mensual; Rara vez
+Dashboards clave,Dashboards,2,Responsable,,
+Dashboards clave,Dashboards,2,Pregunta que responde,,
+Dashboards clave,Dashboards,3,Nombre,,
+Dashboards clave,Dashboards,3,Audiencia,,
+Dashboards clave,Dashboards,3,Frecuencia de uso,,Opciones: Diaria; Semanal; Mensual; Rara vez
+Dashboards clave,Dashboards,3,Responsable,,
+Dashboards clave,Dashboards,3,Pregunta que responde,,
+Dashboards clave,Dashboards,4,Nombre,,
+Dashboards clave,Dashboards,4,Audiencia,,
+Dashboards clave,Dashboards,4,Frecuencia de uso,,Opciones: Diaria; Semanal; Mensual; Rara vez
+Dashboards clave,Dashboards,4,Responsable,,
+Dashboards clave,Dashboards,4,Pregunta que responde,,
+Dashboards clave,Dashboards,5,Nombre,,
+Dashboards clave,Dashboards,5,Audiencia,,
+Dashboards clave,Dashboards,5,Frecuencia de uso,,Opciones: Diaria; Semanal; Mensual; Rara vez
+Dashboards clave,Dashboards,5,Responsable,,
+Dashboards clave,Dashboards,5,Pregunta que responde,,
+Necesidades,Preguntas de negocio que quisieran responder en un solo vistazo,,,,Texto libre
+Necesidades,Audiencias a atender,,,,Opciones: Ejecutivos; Negocio; SRE; Desarrollo; Soporte; Seguridad

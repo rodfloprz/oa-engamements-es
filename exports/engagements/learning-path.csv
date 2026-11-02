@@ -1,0 +1,32 @@
+﻿Sección,Elemento,Detalle
+General,Fase,Enable & Adopt: Construir capacidad duradera
+General,Estado,Disponible
+General,Esfuerzo estimado del equipo de Grafana,4–6 h
+General,Participantes sugeridos,Technical Champion; Líder de capacitación o de plataforma; Patrocinador ejecutivo
+General,"Diseñamos una ruta de aprendizaje por rol y una lista de habilitaciones alineadas a su Success Plan, para acelerar la adopción y reducir la dependencia de unas pocas personas.",
+Retos que resuelve,Usuarios sin capacitación estructurada,
+Retos que resuelve,Adopción plana después del primer equipo,
+Retos que resuelve,Dependencia de un solo champion,
+Retos que resuelve,Capacitación genérica que no responde a sus casos,
+Entregables obligatorios,Ruta de aprendizaje por rol,
+Entregables obligatorios,Calendario de habilitaciones,
+Entregables opcionales,Métricas de seguimiento de adopción,
+Cómo lo hacemos,1,Inventario de roles y audiencias | 1 h
+Cómo lo hacemos,2,Cruce de brechas de habilidades con los resultados del Success Plan | 1 h
+Cómo lo hacemos,3,Curaduría del catálogo de capacitaciones | 1–1.5 h
+Cómo lo hacemos,4,Diseño de la ruta por rol | 1–1.5 h
+Cómo lo hacemos,5,Validación con el champion y publicación del calendario | 0.5–1 h
+Qué necesitamos de su equipo,Participantes: Technical Champion,
+Qué necesitamos de su equipo,Participantes: Líder de capacitación o de plataforma,
+Qué necesitamos de su equipo,Participantes: Patrocinador ejecutivo,
+Qué necesitamos de su equipo,Información y accesos: Success Plan vigente,
+Qué necesitamos de su equipo,Información y accesos: Lista de roles y equipos,
+Qué necesitamos de su equipo,Información y accesos: Datos de usuarios activos,
+Cómo medimos el éxito,% de usuarios con capacitación completada,
+Cómo medimos el éxito,Usuarios activos semanales posteriores a la capacitación,
+Cómo medimos el éxito,Reducción de tickets de soporte básicos,
+Cómo medimos el éxito,Tiempo hasta el primer dashboard propio,
+Artefactos de levantamiento de información,Organigrama y datos organizacionales,"Conocer la estructura de su organización en lo que respecta al negocio y a la observabilidad: quién patrocina, quién decide, quién opera y quién usa la plataforma, para dirigir cada conversación a la persona correcta."
+Artefactos de levantamiento de información,Audiencias y necesidades de capacitación,"Identificar a quién hay que capacitar, con qué nivel y en qué formato, para diseñar rutas de aprendizaje y jornadas a la medida."
+Artefactos de levantamiento de información,Tecnologías en uso,"Registrar las tecnologías que usa hoy su organización (lenguajes, bases de datos, mensajería, plataformas, nubes y herramientas de despliegue) para planear la instrumentación y las integraciones."
+Artefactos de levantamiento de información,Objetivos y expectativas de negocio,"Entender qué resultados de negocio persigue su organización y qué iniciativas estratégicas dependen de la observabilidad, para que el Success Plan y los engagements se midan contra lo que importa."

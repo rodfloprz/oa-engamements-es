@@ -1,0 +1,30 @@
+﻿Sección,Elemento,Detalle
+General,Fase,Growth & Value: Demostrar impacto y expandir resultados
+General,Estado,En desarrollo
+General,Esfuerzo estimado del equipo de Grafana,4–8 h
+General,Participantes sugeridos,Patrocinador técnico; Arquitectos y líderes de plataforma; Responsables de producto internos
+General,"Presentamos el roadmap de producto de Grafana y alineamos las capacidades futuras con sus casos de uso y planes, registrando su retroalimentación para el equipo de producto.",
+Retos que resuelve,Desconocimiento de lo que viene y evaluación de alternativas,
+Retos que resuelve,Pedidos de producto que no llegan al equipo correcto,
+Retos que resuelve,Decisiones de arquitectura que ignoran capacidades próximas,
+Entregables obligatorios,Presentación de roadmap personalizada,
+Entregables obligatorios,Registro de retroalimentación,
+Entregables opcionales,Plan de seguimiento,
+Cómo lo hacemos,1,Mapeo de casos de uso y bloqueos abiertos | 1–2 h
+Cómo lo hacemos,2,Selección de elementos del roadmap relevantes | 1–2 h
+Cómo lo hacemos,3,Preparación de la sesión | 0.5–1.5 h
+Cómo lo hacemos,4,Sesión con su equipo | 1–1.5 h
+Cómo lo hacemos,5,Registro de retroalimentación y seguimientos | 0.5–1 h
+Qué necesitamos de su equipo,Participantes: Patrocinador técnico,
+Qué necesitamos de su equipo,Participantes: Arquitectos y líderes de plataforma,
+Qué necesitamos de su equipo,Participantes: Responsables de producto internos,
+Qué necesitamos de su equipo,Información y accesos: Casos de uso y necesidades abiertas,
+Qué necesitamos de su equipo,Información y accesos: Planes de arquitectura a 12 meses,
+Qué necesitamos de su equipo,Información y accesos: Solicitudes de funcionalidad pendientes,
+Cómo medimos el éxito,Nº de capacidades del roadmap alineadas a sus casos,
+Cómo medimos el éxito,Nº de solicitudes registradas,
+Cómo medimos el éxito,Satisfacción de la sesión (8 de 10 o más),
+Artefactos de levantamiento de información,Objetivos y expectativas de negocio,"Entender qué resultados de negocio persigue su organización y qué iniciativas estratégicas dependen de la observabilidad, para que el Success Plan y los engagements se midan contra lo que importa."
+Artefactos de levantamiento de información,Capacidades de Grafana en uso,"Mapear qué capacidades de Grafana usa cada equipo y cuáles están disponibles sin aprovechar, para priorizar un plan de adopción ligado a sus resultados."
+Artefactos de levantamiento de información,Solicitudes de producto y voz del cliente,"Registrar las solicitudes de funcionalidad y problemas abiertos, con su impacto de negocio, para darles seguimiento con el equipo de producto."
+Artefactos de levantamiento de información,Tecnologías en uso,"Registrar las tecnologías que usa hoy su organización (lenguajes, bases de datos, mensajería, plataformas, nubes y herramientas de despliegue) para planear la instrumentación y las integraciones."

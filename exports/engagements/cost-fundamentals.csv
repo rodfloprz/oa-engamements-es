@@ -1,0 +1,27 @@
+﻿Sección,Elemento,Detalle
+General,Fase,"Cost, Security & Governance: Escalar con control"
+General,Estado,Disponible
+General,Esfuerzo estimado del equipo de Grafana,2–4 h
+General,Participantes sugeridos,Responsable financiero o de compras de tecnología; Líder de plataforma; Equipos técnicos
+General,"Explicamos cómo se factura Grafana Cloud y qué opciones existen para optimizar y ahorrar costos, para que sus equipos técnicos y financieros entiendan los factores que determinan su factura.",
+Retos que resuelve,Sorpresas en la facturación,
+Retos que resuelve,Equipos que no comprenden DPM ni cardinalidad,
+Retos que resuelve,Uso sin gobierno de costos,
+Entregables obligatorios,Presentación personalizada del modelo de facturación,
+Entregables obligatorios,Resumen de tres palancas de ahorro,
+Entregables opcionales,Resultados del quiz,
+Cómo lo hacemos,1,Preparación: dashboard de facturación y principales factores de costo | 0.5–1 h
+Cómo lo hacemos,2,Sesión: cómo se factura según el modelo vigente | 1–1.5 h
+Cómo lo hacemos,3,"Demo de palancas: Adaptive Telemetry, retención e intervalos de scrape | 0.5–1 h"
+Cómo lo hacemos,4,Quiz de verificación y envío de materiales | 0.25–0.5 h
+Qué necesitamos de su equipo,Participantes: Responsable financiero o de compras de tecnología,
+Qué necesitamos de su equipo,Participantes: Líder de plataforma,
+Qué necesitamos de su equipo,Participantes: Equipos técnicos,
+Qué necesitamos de su equipo,Información y accesos: Últimas facturas de Grafana Cloud,
+Qué necesitamos de su equipo,Información y accesos: Acceso al dashboard de facturación,
+Qué necesitamos de su equipo,Información y accesos: Lista de equipos y servicios principales generadores de datos,
+Cómo medimos el éxito,% del equipo que entiende el modelo de facturación (80% o más en el quiz),
+Cómo medimos el éxito,Usuarios activos semanales posteriores,
+Cómo medimos el éxito,Reducción de tickets de soporte básicos,
+Artefactos de levantamiento de información,Costos y consumo de observabilidad,"Levantar el consumo actual, los principales generadores de costo y el nivel de gobierno de costos, para explicar la factura y priorizar las palancas de ahorro."
+Artefactos de levantamiento de información,Organigrama y datos organizacionales,"Conocer la estructura de su organización en lo que respecta al negocio y a la observabilidad: quién patrocina, quién decide, quién opera y quién usa la plataforma, para dirigir cada conversación a la persona correcta."

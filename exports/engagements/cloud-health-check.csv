@@ -1,0 +1,32 @@
+﻿Sección,Elemento,Detalle
+General,Fase,Plan & Assess: Empezar con claridad
+General,Estado,Disponible
+General,Esfuerzo estimado del equipo de Grafana,4–8 h
+General,Participantes sugeridos,Technical Champion; Administrador de Grafana; Líder de plataforma
+General,"Revisión proactiva del estado de su despliegue de Grafana Cloud: uso, desempeño, configuración, seguridad y alineación con buenas prácticas. Termina con una lista priorizada de mejoras.",
+Retos que resuelve,Entornos degradados sin que nadie lo sepa,
+Retos que resuelve,Configuraciones subóptimas acumuladas,
+Retos que resuelve,Brechas de seguridad no identificadas,
+Retos que resuelve,Costo alto sin visibilidad de la causa raíz,
+Entregables obligatorios,Reporte de Health Check con áreas en semáforo,
+Entregables obligatorios,Lista priorizada de hallazgos,
+Entregables opcionales,Recomendaciones de siguientes engagements,
+Cómo lo hacemos,1,"Revisión de dashboards de uso, facturación y cardinalidad | 1–2 h"
+Cómo lo hacemos,2,Sesión con su equipo: recorrido del entorno actual | 2 h
+Cómo lo hacemos,3,"Análisis de cardinalidad, DPM, alertas y accesos | 1 h"
+Cómo lo hacemos,4,Redacción y entrega del reporte | 1–2 h
+Qué necesitamos de su equipo,Participantes: Technical Champion,
+Qué necesitamos de su equipo,Participantes: Administrador de Grafana,
+Qué necesitamos de su equipo,Participantes: Líder de plataforma,
+Qué necesitamos de su equipo,Información y accesos: Acceso de lectura a la stack de Grafana Cloud,
+Qué necesitamos de su equipo,Información y accesos: Acceso a los dashboards de facturación y uso,
+Qué necesitamos de su equipo,Información y accesos: Lista de alertas y equipos responsables,
+Cómo medimos el éxito,Health score por área (0 a 100),
+Cómo medimos el éxito,Nº de configuraciones críticas por corregir,
+Cómo medimos el éxito,DPM actual contra el esperado,
+Cómo medimos el éxito,Nº de alertas sin responsable,
+Artefactos de levantamiento de información,Herramientas de observabilidad y monitoreo,"Inventariar las herramientas de monitoreo y observabilidad en uso, incluidos los productos de Grafana, para entender el panorama, los traslapes y las oportunidades de consolidación."
+Artefactos de levantamiento de información,"Telemetría, agentes y collectors","Conocer qué señales recolectan, con qué agentes y con qué cobertura, para diseñar la topología de collectors, el muestreo y la reducción de ingesta."
+Artefactos de levantamiento de información,Alertas y guardia (on-call),"Medir el volumen y la calidad de las alertas y entender cómo funciona la guardia, para reducir ruido, enriquecer las alertas con contexto y ordenar el escalamiento."
+Artefactos de levantamiento de información,Costos y consumo de observabilidad,"Levantar el consumo actual, los principales generadores de costo y el nivel de gobierno de costos, para explicar la factura y priorizar las palancas de ahorro."
+Artefactos de levantamiento de información,"Seguridad, identidad y cumplimiento","Conocer su proveedor de identidad, los roles de acceso, los marcos de cumplimiento y la gestión de secretos, para diseñar un acceso seguro a los datos de telemetría."

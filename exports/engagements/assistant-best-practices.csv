@@ -1,0 +1,32 @@
+﻿Sección,Elemento,Detalle
+General,Fase,Enable & Adopt: Construir capacidad duradera
+General,Estado,Disponible
+General,Esfuerzo estimado del equipo de Grafana,4–8 h
+General,Participantes sugeridos,Technical Champion; Equipos de SRE y desarrollo; Seguridad de la información (recomendado)
+General,"Enseñamos a usar Grafana Assistant de forma efectiva en su entorno, para ganar claridad y acelerar el troubleshooting, con criterios para verificar sus respuestas contra la telemetría.",
+Retos que resuelve,Baja adopción de asistentes por falta de casos de uso concretos,
+Retos que resuelve,Respuestas usadas sin verificar contra evidencia,
+Retos que resuelve,Equipos de desarrollo con agentes de código sin contexto de observabilidad,
+Retos que resuelve,Falta de criterios de buena práctica,
+Entregables obligatorios,Material del workshop,
+Entregables obligatorios,Guía de patrones y verificación,
+Entregables opcionales,Flujo de ejemplo con MCP,
+Cómo lo hacemos,1,Preparación: casos de uso y datos disponibles | 1–1.5 h
+Cómo lo hacemos,2,Workshop: Grafana Assistant para claridad y troubleshooting | 2–3 h
+Cómo lo hacemos,3,Patrones de prompting y verificación contra evidencia | 1–2 h
+Cómo lo hacemos,4,MCP en flujos de agentes de código | 0.5–1 h
+Cómo lo hacemos,5,Seguimiento | 0.25–0.5 h
+Qué necesitamos de su equipo,Participantes: Technical Champion,
+Qué necesitamos de su equipo,Participantes: Equipos de SRE y desarrollo,
+Qué necesitamos de su equipo,Participantes: Seguridad de la información (recomendado),
+Qué necesitamos de su equipo,Información y accesos: Política de uso de IA vigente,
+Qué necesitamos de su equipo,Información y accesos: Acceso a la stack con datos representativos,
+Qué necesitamos de su equipo,Información y accesos: Dos o tres incidentes recientes como casos de práctica,
+Cómo medimos el éxito,% de usuarios que usan Grafana Assistant cada semana,
+Cómo medimos el éxito,Reducción del tiempo de investigación en incidentes seleccionados,
+Cómo medimos el éxito,% de respuestas verificadas contra evidencia,
+Cómo medimos el éxito,Satisfacción del workshop (8 de 10 o más),
+Artefactos de levantamiento de información,Uso de IA y políticas de datos,"Entender sus políticas, herramientas aprobadas y casos de uso de IA para habilitar Grafana Assistant y MCP con los controles adecuados."
+Artefactos de levantamiento de información,Tecnologías en uso,"Registrar las tecnologías que usa hoy su organización (lenguajes, bases de datos, mensajería, plataformas, nubes y herramientas de despliegue) para planear la instrumentación y las integraciones."
+Artefactos de levantamiento de información,"Telemetría, agentes y collectors","Conocer qué señales recolectan, con qué agentes y con qué cobertura, para diseñar la topología de collectors, el muestreo y la reducción de ingesta."
+Artefactos de levantamiento de información,Audiencias y necesidades de capacitación,"Identificar a quién hay que capacitar, con qué nivel y en qué formato, para diseñar rutas de aprendizaje y jornadas a la medida."

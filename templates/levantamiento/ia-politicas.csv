@@ -1,0 +1,26 @@
+﻿Sección,Campo,Fila,Columna,Valor,Opciones o ayuda
+Datos de contacto,Organización o cliente,,,,
+Datos de contacto,Nombre de quien responde,,,,
+Datos de contacto,Cargo o rol,,,,
+Datos de contacto,Correo de contacto,,,,Correo
+Datos de contacto,Engagement relacionado,,,,
+Datos de contacto,Fecha,,,,Fecha
+Política,¿Existe una política de uso de IA?,,,,Opciones: Sí; En elaboración; No
+Política,Datos de telemetría que pueden y no pueden usarse con asistentes de IA,,,,Texto libre
+Política,Quién aprueba nuevas herramientas o permisos,,,,
+Herramientas,Herramientas de IA,1,Herramienta,,
+Herramientas,Herramientas de IA,1,Uso permitido,,
+Herramientas,Herramientas de IA,1,Datos permitidos,,
+Herramientas,Herramientas de IA,1,Aprobador,,
+Herramientas,Herramientas de IA,2,Herramienta,,
+Herramientas,Herramientas de IA,2,Uso permitido,,
+Herramientas,Herramientas de IA,2,Datos permitidos,,
+Herramientas,Herramientas de IA,2,Aprobador,,
+Herramientas,Herramientas de IA,3,Herramienta,,
+Herramientas,Herramientas de IA,3,Uso permitido,,
+Herramientas,Herramientas de IA,3,Datos permitidos,,
+Herramientas,Herramientas de IA,3,Aprobador,,
+Herramientas,Agentes de código con IA en uso,,,,Opciones: GitHub Copilot; Cursor; Claude Code; Windsurf; Otro; Ninguno
+Casos de uso,Casos de interés,,,,Opciones: Investigación de incidentes; Explicación de dashboards y alertas; Generación de consultas; Creación de dashboards; Resumen de postmortems; Apoyo a desarrolladores en el IDE; Otro
+Casos de uso,Preferencia para MCP,,,,Opciones: Hospedada; Autogestionada; Aún no lo sé
+Casos de uso,Permisos que se concederían,,,,Opciones: Solo lectura; Lectura y escritura limitada; Aún no definido

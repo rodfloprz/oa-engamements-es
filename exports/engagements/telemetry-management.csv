@@ -1,0 +1,41 @@
+﻿Sección,Elemento,Detalle
+General,Fase,Data & Architecture: Crear una base sólida de señales
+General,Estado,Disponible
+General,Esfuerzo estimado del equipo de Grafana,40–80 h
+General,Participantes sugeridos,Equipo de plataforma; Dueños de servicio; Seguridad (para aprobaciones de collectors)
+General,"Establecemos y ampliamos la instrumentación en aplicaciones, infraestructura y user journeys. Estandarizamos en OpenTelemetry y Alloy, normalizamos labels y diseñamos una topología de collectors con enrutamiento, muestreo y transformaciones.",
+Retos que resuelve,Visibilidad incompleta de servicios críticos,
+Retos que resuelve,Múltiples agentes y formatos sin estándar,
+Retos que resuelve,Labels inconsistentes que impiden correlacionar,
+Retos que resuelve,Collectors sin alta disponibilidad,
+Retos que resuelve,Ingesta duplicada que infla el costo,
+Entregables obligatorios,Diagrama de arquitectura de telemetría,
+Entregables obligatorios,Reporte de cobertura antes y después,
+Entregables opcionales,Diseño de topología de collectors,
+Entregables opcionales,Plantillas de configuración versionadas,
+Entregables opcionales,Guía de estandarización de labels,
+Entregables opcionales,Estrategia de muestreo y enrutamiento,
+Cómo lo hacemos,1,"Inventario de servicios, agentes y señales | 4–6 h"
+Cómo lo hacemos,2,Análisis de brechas de cobertura | 2–3 h
+Cómo lo hacemos,3,Diseño de la arquitectura de collectors | 4–8 h
+Cómo lo hacemos,4,Estándares de labels con el equipo de plataforma | 2–4 h
+Cómo lo hacemos,5,Piloto de collectors en 2 o 3 servicios críticos | 8–12 h
+Cómo lo hacemos,6,Despliegue progresivo a los servicios en alcance | 8–16 h
+Cómo lo hacemos,7,Muestreo y transformaciones para reducir DPM | 4–8 h
+Cómo lo hacemos,8,Validación final y reporte de cobertura | 2–4 h
+Qué necesitamos de su equipo,Participantes: Equipo de plataforma,
+Qué necesitamos de su equipo,Participantes: Dueños de servicio,
+Qué necesitamos de su equipo,Participantes: Seguridad (para aprobaciones de collectors),
+Qué necesitamos de su equipo,Información y accesos: Catálogo de servicios o CMDB,
+Qué necesitamos de su equipo,Información y accesos: Configuración actual de agentes y collectors,
+Qué necesitamos de su equipo,Información y accesos: Ventanas de cambio disponibles,
+Cómo medimos el éxito,"% de servicios con métricas, logs y trazas",
+Cómo medimos el éxito,% de collectors migrados a Alloy u OpenTelemetry,
+Cómo medimos el éxito,DPM antes y después,
+Cómo medimos el éxito,% de labels normalizados,
+Cómo medimos el éxito,Disponibilidad de la colección de telemetría (99.9% o más),
+Artefactos de levantamiento de información,Ambiente aplicativo,"Levantar el inventario de aplicaciones y servicios, su criticidad y los journeys de negocio que soportan, para priorizar qué observar primero y dónde definir SLOs."
+Artefactos de levantamiento de información,Tecnologías en uso,"Registrar las tecnologías que usa hoy su organización (lenguajes, bases de datos, mensajería, plataformas, nubes y herramientas de despliegue) para planear la instrumentación y las integraciones."
+Artefactos de levantamiento de información,"Telemetría, agentes y collectors","Conocer qué señales recolectan, con qué agentes y con qué cobertura, para diseñar la topología de collectors, el muestreo y la reducción de ingesta."
+Artefactos de levantamiento de información,Convenciones de nombres y labels,Documentar los labels y convenciones que usan hoy los equipos para definir un estándar común que permita correlacionar señales y controlar la cardinalidad.
+Artefactos de levantamiento de información,"Seguridad, identidad y cumplimiento","Conocer su proveedor de identidad, los roles de acceso, los marcos de cumplimiento y la gestión de secretos, para diseñar un acceso seguro a los datos de telemetría."

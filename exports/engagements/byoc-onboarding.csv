@@ -1,0 +1,34 @@
+﻿Sección,Elemento,Detalle
+General,Fase,Data & Architecture: Crear una base sólida de señales
+General,Estado,Disponible
+General,Esfuerzo estimado del equipo de Grafana,24–48 h
+General,Participantes sugeridos,Equipo de nube o infraestructura; Seguridad de la información; Technical Champion; Patrocinador del proyecto
+General,"Acompañamos el ciclo de incorporación de un despliegue en su propia nube (BYOC) en cuatro etapas: preparación (readiness), seguimiento de la construcción, validación de aceptación (UAT) y entrega de la cuenta.",
+Retos que resuelve,"Prerrequisitos de nube, red y seguridad sin confirmar",
+Retos que resuelve,Dependencias entre equipos que retrasan la construcción,
+Retos que resuelve,Criterios de aceptación poco claros,
+Retos que resuelve,Entrega sin responsabilidades operativas definidas,
+Entregables obligatorios,Checklist de readiness,
+Entregables obligatorios,Acta de entrega con responsabilidades y runbooks,
+Entregables opcionales,Plan de hitos con estado,
+Entregables opcionales,Plan y resultados de UAT,
+Cómo lo hacemos,1,"Readiness: prerrequisitos de nube, red, cuotas y aprobaciones de seguridad | 4–8 h"
+Cómo lo hacemos,2,Plan de hitos y mecanismo de seguimiento | 2–4 h
+Cómo lo hacemos,3,Seguimiento de la construcción: revisiones periódicas y gestión de bloqueos | 8–16 h
+Cómo lo hacemos,4,"UAT: plan de pruebas, criterios de aceptación y soporte a la validación | 6–12 h"
+Cómo lo hacemos,5,"Entrega de la cuenta: runbooks, responsabilidades y cierre | 4–8 h"
+Qué necesitamos de su equipo,Participantes: Equipo de nube o infraestructura,
+Qué necesitamos de su equipo,Participantes: Seguridad de la información,
+Qué necesitamos de su equipo,Participantes: Technical Champion,
+Qué necesitamos de su equipo,Participantes: Patrocinador del proyecto,
+Qué necesitamos de su equipo,Información y accesos: Cuenta de nube y accesos acordados,
+Qué necesitamos de su equipo,Información y accesos: Aprobaciones de seguridad y de red,
+Qué necesitamos de su equipo,Información y accesos: Ventanas de cambio y responsables técnicos,
+Cómo medimos el éxito,% de prerrequisitos confirmados antes del inicio,
+Cómo medimos el éxito,Cumplimiento de hitos (planeado contra real),
+Cómo medimos el éxito,% de criterios de UAT aprobados,
+Cómo medimos el éxito,Tiempo hasta la entrega de la cuenta,
+Artefactos de levantamiento de información,"Nube, red y preparación BYOC","Confirmar los prerrequisitos de nube, red, aprobaciones y operación antes de desplegar en su propia nube, y acordar los criterios de aceptación."
+Artefactos de levantamiento de información,"Seguridad, identidad y cumplimiento","Conocer su proveedor de identidad, los roles de acceso, los marcos de cumplimiento y la gestión de secretos, para diseñar un acceso seguro a los datos de telemetría."
+Artefactos de levantamiento de información,Tecnologías en uso,"Registrar las tecnologías que usa hoy su organización (lenguajes, bases de datos, mensajería, plataformas, nubes y herramientas de despliegue) para planear la instrumentación y las integraciones."
+Artefactos de levantamiento de información,Organigrama y datos organizacionales,"Conocer la estructura de su organización en lo que respecta al negocio y a la observabilidad: quién patrocina, quién decide, quién opera y quién usa la plataforma, para dirigir cada conversación a la persona correcta."

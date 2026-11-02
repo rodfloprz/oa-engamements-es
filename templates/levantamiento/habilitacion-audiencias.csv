@@ -1,0 +1,32 @@
+﻿Sección,Campo,Fila,Columna,Valor,Opciones o ayuda
+Datos de contacto,Organización o cliente,,,,
+Datos de contacto,Nombre de quien responde,,,,
+Datos de contacto,Cargo o rol,,,,
+Datos de contacto,Correo de contacto,,,,Correo
+Datos de contacto,Engagement relacionado,,,,
+Datos de contacto,Fecha,,,,Fecha
+Audiencias,Audiencias,1,Rol,,
+Audiencias,Audiencias,1,Personas,,Número
+Audiencias,Audiencias,1,Nivel actual,,Opciones: Principiante; Intermedio; Avanzado
+Audiencias,Audiencias,1,Temas prioritarios,,
+Audiencias,Audiencias,1,Países o zonas horarias,,
+Audiencias,Audiencias,2,Rol,,
+Audiencias,Audiencias,2,Personas,,Número
+Audiencias,Audiencias,2,Nivel actual,,Opciones: Principiante; Intermedio; Avanzado
+Audiencias,Audiencias,2,Temas prioritarios,,
+Audiencias,Audiencias,2,Países o zonas horarias,,
+Audiencias,Audiencias,3,Rol,,
+Audiencias,Audiencias,3,Personas,,Número
+Audiencias,Audiencias,3,Nivel actual,,Opciones: Principiante; Intermedio; Avanzado
+Audiencias,Audiencias,3,Temas prioritarios,,
+Audiencias,Audiencias,3,Países o zonas horarias,,
+Audiencias,Audiencias,4,Rol,,
+Audiencias,Audiencias,4,Personas,,Número
+Audiencias,Audiencias,4,Nivel actual,,Opciones: Principiante; Intermedio; Avanzado
+Audiencias,Audiencias,4,Temas prioritarios,,
+Audiencias,Audiencias,4,Países o zonas horarias,,
+Preferencias,Formatos preferidos,,,,Opciones: Workshop en vivo; Laboratorios prácticos; Evento de un día; Autoaprendizaje; Sesiones cortas semanales; Presencial
+Preferencias,Tiempo semanal disponible por persona,,,,Opciones: Menos de 1 hora; 1–2 horas; 3–4 horas; Más de 4 horas
+Preferencias,Idioma,,,,Opciones: Español; Inglés; Portugués; Bilingüe
+Preferencias,Plataforma interna de aprendizaje (si existe),,,,
+Preferencias,Resultado esperado de la capacitación,,,,Texto libre

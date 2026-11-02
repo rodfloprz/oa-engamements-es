@@ -1,0 +1,31 @@
+﻿Sección,Campo,Fila,Columna,Valor,Opciones o ayuda
+Datos de contacto,Organización o cliente,,,,
+Datos de contacto,Nombre de quien responde,,,,
+Datos de contacto,Cargo o rol,,,,
+Datos de contacto,Correo de contacto,,,,Correo
+Datos de contacto,Engagement relacionado,,,,
+Datos de contacto,Fecha,,,,Fecha
+Herramientas actuales,Herramientas,1,Herramienta,,
+Herramientas actuales,Herramientas,1,Propósito,,Opciones: Métricas; Logs; Trazas y APM; Alertas; Gestión de incidentes; Dashboards; Monitoreo sintético; Usuario real (RUM); Varios
+Herramientas actuales,Herramientas,1,Equipos que la usan,,
+Herramientas actuales,Herramientas,1,Costo anual (USD) y vencimiento,,
+Herramientas actuales,Herramientas,1,Plan,,Opciones: Se mantiene; Se retirará; Evaluando
+Herramientas actuales,Herramientas,2,Herramienta,,
+Herramientas actuales,Herramientas,2,Propósito,,Opciones: Métricas; Logs; Trazas y APM; Alertas; Gestión de incidentes; Dashboards; Monitoreo sintético; Usuario real (RUM); Varios
+Herramientas actuales,Herramientas,2,Equipos que la usan,,
+Herramientas actuales,Herramientas,2,Costo anual (USD) y vencimiento,,
+Herramientas actuales,Herramientas,2,Plan,,Opciones: Se mantiene; Se retirará; Evaluando
+Herramientas actuales,Herramientas,3,Herramienta,,
+Herramientas actuales,Herramientas,3,Propósito,,Opciones: Métricas; Logs; Trazas y APM; Alertas; Gestión de incidentes; Dashboards; Monitoreo sintético; Usuario real (RUM); Varios
+Herramientas actuales,Herramientas,3,Equipos que la usan,,
+Herramientas actuales,Herramientas,3,Costo anual (USD) y vencimiento,,
+Herramientas actuales,Herramientas,3,Plan,,Opciones: Se mantiene; Se retirará; Evaluando
+Herramientas actuales,Herramientas,4,Herramienta,,
+Herramientas actuales,Herramientas,4,Propósito,,Opciones: Métricas; Logs; Trazas y APM; Alertas; Gestión de incidentes; Dashboards; Monitoreo sintético; Usuario real (RUM); Varios
+Herramientas actuales,Herramientas,4,Equipos que la usan,,
+Herramientas actuales,Herramientas,4,Costo anual (USD) y vencimiento,,
+Herramientas actuales,Herramientas,4,Plan,,Opciones: Se mantiene; Se retirará; Evaluando
+Uso de Grafana,Productos de Grafana en uso,,,,Opciones: Grafana Cloud; Grafana Enterprise; Grafana OSS; Mimir; Loki; Tempo; Pyroscope; Alloy; IRM / OnCall; SLO; Adaptive Telemetry; Grafana Assistant; k6; Faro; Fleet Management; Database Observability
+Uso de Grafana,Usuarios activos semanales (aproximado),,,,Opciones: Menos de 25; 25–100; 101–500; Más de 500; No lo sé
+Uso de Grafana,Tiempo usando Grafana,,,,Opciones: Menos de 6 meses; 6–12 meses; 1–3 años; Más de 3 años
+Uso de Grafana,Qué funciona bien y qué no con las herramientas actuales,,,,Texto libre

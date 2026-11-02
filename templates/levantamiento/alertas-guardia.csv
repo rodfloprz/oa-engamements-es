@@ -1,0 +1,54 @@
+﻿Sección,Campo,Fila,Columna,Valor,Opciones o ayuda
+Datos de contacto,Organización o cliente,,,,
+Datos de contacto,Nombre de quien responde,,,,
+Datos de contacto,Cargo o rol,,,,
+Datos de contacto,Correo de contacto,,,,Correo
+Datos de contacto,Engagement relacionado,,,,
+Datos de contacto,Fecha,,,,Fecha
+Panorama de alertas,Herramientas de alertas y notificación,,,,Opciones: Grafana Alerting; Prometheus Alertmanager; PagerDuty; Opsgenie; ServiceNow; Slack o Teams; Otro
+Panorama de alertas,Reglas de alerta activas,,,,"Opciones: Menos de 100; 100–500; 501–2,000; Más de 2,000; No lo sé"
+Panorama de alertas,Notificaciones por semana,,,,"Opciones: Menos de 100; 100–500; 501–2,000; Más de 2,000; No lo sé"
+Panorama de alertas,% de notificaciones que requieren acción,,,,Opciones: Menos de 25%; 25–50%; 51–75%; Más de 75%; No lo sé
+Panorama de alertas,% de alertas con runbook,,,,Opciones: 0–25%; 26–50%; 51–75%; 76–100%; No lo sé
+Panorama de alertas,% de alertas con responsable definido,,,,Opciones: 0–25%; 26–50%; 51–75%; 76–100%; No lo sé
+Alertas que más molestan,Top de alertas,1,Alerta,,
+Alertas que más molestan,Top de alertas,1,Servicio,,
+Alertas que más molestan,Top de alertas,1,Disparos por semana,,Número
+Alertas que más molestan,Top de alertas,1,¿Requiere acción?,,Opciones: Siempre; A veces; Casi nunca
+Alertas que más molestan,Top de alertas,1,¿Tiene runbook?,,Opciones: Sí; No
+Alertas que más molestan,Top de alertas,2,Alerta,,
+Alertas que más molestan,Top de alertas,2,Servicio,,
+Alertas que más molestan,Top de alertas,2,Disparos por semana,,Número
+Alertas que más molestan,Top de alertas,2,¿Requiere acción?,,Opciones: Siempre; A veces; Casi nunca
+Alertas que más molestan,Top de alertas,2,¿Tiene runbook?,,Opciones: Sí; No
+Alertas que más molestan,Top de alertas,3,Alerta,,
+Alertas que más molestan,Top de alertas,3,Servicio,,
+Alertas que más molestan,Top de alertas,3,Disparos por semana,,Número
+Alertas que más molestan,Top de alertas,3,¿Requiere acción?,,Opciones: Siempre; A veces; Casi nunca
+Alertas que más molestan,Top de alertas,3,¿Tiene runbook?,,Opciones: Sí; No
+Alertas que más molestan,Top de alertas,4,Alerta,,
+Alertas que más molestan,Top de alertas,4,Servicio,,
+Alertas que más molestan,Top de alertas,4,Disparos por semana,,Número
+Alertas que más molestan,Top de alertas,4,¿Requiere acción?,,Opciones: Siempre; A veces; Casi nunca
+Alertas que más molestan,Top de alertas,4,¿Tiene runbook?,,Opciones: Sí; No
+Alertas que más molestan,Top de alertas,5,Alerta,,
+Alertas que más molestan,Top de alertas,5,Servicio,,
+Alertas que más molestan,Top de alertas,5,Disparos por semana,,Número
+Alertas que más molestan,Top de alertas,5,¿Requiere acción?,,Opciones: Siempre; A veces; Casi nunca
+Alertas que más molestan,Top de alertas,5,¿Tiene runbook?,,Opciones: Sí; No
+Guardia (on-call),Rotaciones,1,Equipo,,
+Guardia (on-call),Rotaciones,1,Personas,,Número
+Guardia (on-call),Rotaciones,1,Herramienta,,
+Guardia (on-call),Rotaciones,1,Horario y cobertura,,
+Guardia (on-call),Rotaciones,1,Ruta de escalamiento,,
+Guardia (on-call),Rotaciones,2,Equipo,,
+Guardia (on-call),Rotaciones,2,Personas,,Número
+Guardia (on-call),Rotaciones,2,Herramienta,,
+Guardia (on-call),Rotaciones,2,Horario y cobertura,,
+Guardia (on-call),Rotaciones,2,Ruta de escalamiento,,
+Guardia (on-call),Rotaciones,3,Equipo,,
+Guardia (on-call),Rotaciones,3,Personas,,Número
+Guardia (on-call),Rotaciones,3,Herramienta,,
+Guardia (on-call),Rotaciones,3,Horario y cobertura,,
+Guardia (on-call),Rotaciones,3,Ruta de escalamiento,,
+Guardia (on-call),¿Hay señales de fatiga o rotación en las guardias?,,,,"Opciones: No; Algunas; Sí, es un problema serio"

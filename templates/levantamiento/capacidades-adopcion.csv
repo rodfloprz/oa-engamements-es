@@ -1,0 +1,66 @@
+﻿Sección,Campo,Fila,Columna,Valor,Opciones o ayuda
+Datos de contacto,Organización o cliente,,,,
+Datos de contacto,Nombre de quien responde,,,,
+Datos de contacto,Cargo o rol,,,,
+Datos de contacto,Correo de contacto,,,,Correo
+Datos de contacto,Engagement relacionado,,,,
+Datos de contacto,Fecha,,,,Fecha
+Capacidades,Mapa de uso,1,Capacidad,Métricas,
+Capacidades,Mapa de uso,1,Uso,,Opciones: No lo usamos; Evaluando; Piloto; Uso amplio
+Capacidades,Mapa de uso,1,Equipos que la usan,,
+Capacidades,Mapa de uso,1,Barreras o dudas,,
+Capacidades,Mapa de uso,2,Capacidad,Logs,
+Capacidades,Mapa de uso,2,Uso,,Opciones: No lo usamos; Evaluando; Piloto; Uso amplio
+Capacidades,Mapa de uso,2,Equipos que la usan,,
+Capacidades,Mapa de uso,2,Barreras o dudas,,
+Capacidades,Mapa de uso,3,Capacidad,Trazas,
+Capacidades,Mapa de uso,3,Uso,,Opciones: No lo usamos; Evaluando; Piloto; Uso amplio
+Capacidades,Mapa de uso,3,Equipos que la usan,,
+Capacidades,Mapa de uso,3,Barreras o dudas,,
+Capacidades,Mapa de uso,4,Capacidad,Perfiles,
+Capacidades,Mapa de uso,4,Uso,,Opciones: No lo usamos; Evaluando; Piloto; Uso amplio
+Capacidades,Mapa de uso,4,Equipos que la usan,,
+Capacidades,Mapa de uso,4,Barreras o dudas,,
+Capacidades,Mapa de uso,5,Capacidad,Alerting,
+Capacidades,Mapa de uso,5,Uso,,Opciones: No lo usamos; Evaluando; Piloto; Uso amplio
+Capacidades,Mapa de uso,5,Equipos que la usan,,
+Capacidades,Mapa de uso,5,Barreras o dudas,,
+Capacidades,Mapa de uso,6,Capacidad,SLO,
+Capacidades,Mapa de uso,6,Uso,,Opciones: No lo usamos; Evaluando; Piloto; Uso amplio
+Capacidades,Mapa de uso,6,Equipos que la usan,,
+Capacidades,Mapa de uso,6,Barreras o dudas,,
+Capacidades,Mapa de uso,7,Capacidad,IRM / OnCall,
+Capacidades,Mapa de uso,7,Uso,,Opciones: No lo usamos; Evaluando; Piloto; Uso amplio
+Capacidades,Mapa de uso,7,Equipos que la usan,,
+Capacidades,Mapa de uso,7,Barreras o dudas,,
+Capacidades,Mapa de uso,8,Capacidad,"Adaptive Metrics, Logs o Traces",
+Capacidades,Mapa de uso,8,Uso,,Opciones: No lo usamos; Evaluando; Piloto; Uso amplio
+Capacidades,Mapa de uso,8,Equipos que la usan,,
+Capacidades,Mapa de uso,8,Barreras o dudas,,
+Capacidades,Mapa de uso,9,Capacidad,Grafana Assistant,
+Capacidades,Mapa de uso,9,Uso,,Opciones: No lo usamos; Evaluando; Piloto; Uso amplio
+Capacidades,Mapa de uso,9,Equipos que la usan,,
+Capacidades,Mapa de uso,9,Barreras o dudas,,
+Capacidades,Mapa de uso,10,Capacidad,Monitoreo sintético,
+Capacidades,Mapa de uso,10,Uso,,Opciones: No lo usamos; Evaluando; Piloto; Uso amplio
+Capacidades,Mapa de uso,10,Equipos que la usan,,
+Capacidades,Mapa de uso,10,Barreras o dudas,,
+Capacidades,Mapa de uso,11,Capacidad,k6 (pruebas de carga),
+Capacidades,Mapa de uso,11,Uso,,Opciones: No lo usamos; Evaluando; Piloto; Uso amplio
+Capacidades,Mapa de uso,11,Equipos que la usan,,
+Capacidades,Mapa de uso,11,Barreras o dudas,,
+Capacidades,Mapa de uso,12,Capacidad,Faro (observabilidad de frontend),
+Capacidades,Mapa de uso,12,Uso,,Opciones: No lo usamos; Evaluando; Piloto; Uso amplio
+Capacidades,Mapa de uso,12,Equipos que la usan,,
+Capacidades,Mapa de uso,12,Barreras o dudas,,
+Capacidades,Mapa de uso,13,Capacidad,Fleet Management,
+Capacidades,Mapa de uso,13,Uso,,Opciones: No lo usamos; Evaluando; Piloto; Uso amplio
+Capacidades,Mapa de uso,13,Equipos que la usan,,
+Capacidades,Mapa de uso,13,Barreras o dudas,,
+Capacidades,Mapa de uso,14,Capacidad,Database Observability,
+Capacidades,Mapa de uso,14,Uso,,Opciones: No lo usamos; Evaluando; Piloto; Uso amplio
+Capacidades,Mapa de uso,14,Equipos que la usan,,
+Capacidades,Mapa de uso,14,Barreras o dudas,,
+Prioridades,Capacidades que más les interesaría adoptar y por qué,,,,Texto libre
+Prioridades,Cómo se enteran de las novedades del producto,,,,Texto libre
+Prioridades,Quién decide adoptar una capacidad nueva,,,,

@@ -1,0 +1,41 @@
+﻿Sección,Campo,Fila,Columna,Valor,Opciones o ayuda
+Datos de contacto,Organización o cliente,,,,
+Datos de contacto,Nombre de quien responde,,,,
+Datos de contacto,Cargo o rol,,,,
+Datos de contacto,Correo de contacto,,,,Correo
+Datos de contacto,Engagement relacionado,,,,
+Datos de contacto,Fecha,,,,Fecha
+Compromisos de servicio (SLA),SLAs,1,Servicio o contrato,,
+Compromisos de servicio (SLA),SLAs,1,Cliente o regulador,,
+Compromisos de servicio (SLA),SLAs,1,"Meta (por ejemplo, 99.9% mensual)",,
+Compromisos de servicio (SLA),SLAs,1,Penalidad,,
+Compromisos de servicio (SLA),SLAs,1,Incumplimientos en 12 meses,,Número
+Compromisos de servicio (SLA),SLAs,2,Servicio o contrato,,
+Compromisos de servicio (SLA),SLAs,2,Cliente o regulador,,
+Compromisos de servicio (SLA),SLAs,2,"Meta (por ejemplo, 99.9% mensual)",,
+Compromisos de servicio (SLA),SLAs,2,Penalidad,,
+Compromisos de servicio (SLA),SLAs,2,Incumplimientos en 12 meses,,Número
+Compromisos de servicio (SLA),SLAs,3,Servicio o contrato,,
+Compromisos de servicio (SLA),SLAs,3,Cliente o regulador,,
+Compromisos de servicio (SLA),SLAs,3,"Meta (por ejemplo, 99.9% mensual)",,
+Compromisos de servicio (SLA),SLAs,3,Penalidad,,
+Compromisos de servicio (SLA),SLAs,3,Incumplimientos en 12 meses,,Número
+SLOs y SLIs existentes,SLOs,1,Servicio,,
+SLOs y SLIs existentes,SLOs,1,SLI,,
+SLOs y SLIs existentes,SLOs,1,Meta,,
+SLOs y SLIs existentes,SLOs,1,Fuente del dato,,
+SLOs y SLIs existentes,SLOs,1,Revisión,,Opciones: Semanal; Mensual; Trimestral; No se revisa
+SLOs y SLIs existentes,SLOs,2,Servicio,,
+SLOs y SLIs existentes,SLOs,2,SLI,,
+SLOs y SLIs existentes,SLOs,2,Meta,,
+SLOs y SLIs existentes,SLOs,2,Fuente del dato,,
+SLOs y SLIs existentes,SLOs,2,Revisión,,Opciones: Semanal; Mensual; Trimestral; No se revisa
+SLOs y SLIs existentes,SLOs,3,Servicio,,
+SLOs y SLIs existentes,SLOs,3,SLI,,
+SLOs y SLIs existentes,SLOs,3,Meta,,
+SLOs y SLIs existentes,SLOs,3,Fuente del dato,,
+SLOs y SLIs existentes,SLOs,3,Revisión,,Opciones: Semanal; Mensual; Trimestral; No se revisa
+Prácticas,¿Usan presupuesto de error para decidir entre funciones y confiabilidad?,,,,Opciones: Sí; Parcialmente; No
+Prácticas,Qué hacen cuando se agota el presupuesto de error,,,,Texto libre
+Prácticas,¿Miden disponibilidad y latencia desde la perspectiva del usuario?,,,,Opciones: Sí; Parcialmente; No
+Prácticas,Madurez percibida de SLOs,,,,"Opciones: Bajo: monitoreamos todo, pero no sabemos qué importa; Medio: definimos qué importa, pero no siempre actuamos; Alto: medimos, actuamos y el negocio se alinea"

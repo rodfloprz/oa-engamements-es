@@ -1,0 +1,44 @@
+﻿Sección,Campo,Fila,Columna,Valor,Opciones o ayuda
+Datos de contacto,Organización o cliente,,,,
+Datos de contacto,Nombre de quien responde,,,,
+Datos de contacto,Cargo o rol,,,,
+Datos de contacto,Correo de contacto,,,,Correo
+Datos de contacto,Engagement relacionado,,,,
+Datos de contacto,Fecha,,,,Fecha
+Consumo actual,DPM actual aproximado,,,,Número
+Consumo actual,Series activas aproximadas,,,,Número
+Consumo actual,Volumen de logs (GB por día),,,,Número
+Consumo actual,Volumen de trazas (GB por día),,,,Número
+Consumo actual,Retención configurada por señal,,,,
+Consumo actual,Costo mensual aproximado de observabilidad (USD),,,,Número
+Consumo actual,Presupuesto anual o techo (opcional),,,,
+Gobierno de costos,¿Hay atribución de costos por equipo o servicio?,,,,Opciones: Sí; Parcialmente; No
+Gobierno de costos,¿Tienen alertas ante picos de costo o DPM?,,,,Opciones: Sí; No
+Gobierno de costos,Responsable del costo de observabilidad,,,,
+Gobierno de costos,"Uso de Adaptive Metrics, Logs o Traces",,,,Opciones: No; Evaluando; Parcial; Amplio
+Gobierno de costos,Meta de ahorro o reducción,,,,
+Principales generadores de costo,Generadores,1,Equipo o servicio,,
+Principales generadores de costo,Generadores,1,Señal,,Opciones: Métricas; Logs; Trazas; Perfiles; Varias
+Principales generadores de costo,Generadores,1,Volumen aproximado,,
+Principales generadores de costo,Generadores,1,Costo aproximado (USD),,Número
+Principales generadores de costo,Generadores,1,Causa conocida,,
+Principales generadores de costo,Generadores,2,Equipo o servicio,,
+Principales generadores de costo,Generadores,2,Señal,,Opciones: Métricas; Logs; Trazas; Perfiles; Varias
+Principales generadores de costo,Generadores,2,Volumen aproximado,,
+Principales generadores de costo,Generadores,2,Costo aproximado (USD),,Número
+Principales generadores de costo,Generadores,2,Causa conocida,,
+Principales generadores de costo,Generadores,3,Equipo o servicio,,
+Principales generadores de costo,Generadores,3,Señal,,Opciones: Métricas; Logs; Trazas; Perfiles; Varias
+Principales generadores de costo,Generadores,3,Volumen aproximado,,
+Principales generadores de costo,Generadores,3,Costo aproximado (USD),,Número
+Principales generadores de costo,Generadores,3,Causa conocida,,
+Principales generadores de costo,Generadores,4,Equipo o servicio,,
+Principales generadores de costo,Generadores,4,Señal,,Opciones: Métricas; Logs; Trazas; Perfiles; Varias
+Principales generadores de costo,Generadores,4,Volumen aproximado,,
+Principales generadores de costo,Generadores,4,Costo aproximado (USD),,Número
+Principales generadores de costo,Generadores,4,Causa conocida,,
+Principales generadores de costo,Generadores,5,Equipo o servicio,,
+Principales generadores de costo,Generadores,5,Señal,,Opciones: Métricas; Logs; Trazas; Perfiles; Varias
+Principales generadores de costo,Generadores,5,Volumen aproximado,,
+Principales generadores de costo,Generadores,5,Costo aproximado (USD),,Número
+Principales generadores de costo,Generadores,5,Causa conocida,,

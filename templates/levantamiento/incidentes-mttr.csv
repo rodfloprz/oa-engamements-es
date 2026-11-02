@@ -1,0 +1,47 @@
+﻿Sección,Campo,Fila,Columna,Valor,Opciones o ayuda
+Datos de contacto,Organización o cliente,,,,
+Datos de contacto,Nombre de quien responde,,,,
+Datos de contacto,Cargo o rol,,,,
+Datos de contacto,Correo de contacto,,,,Correo
+Datos de contacto,Engagement relacionado,,,,
+Datos de contacto,Fecha,,,,Fecha
+Proceso de incidentes,¿Cómo se declara un incidente y quién decide la severidad?,,,,Texto libre
+Proceso de incidentes,Niveles de severidad definidos,,,,Texto libre
+Proceso de incidentes,Roles definidos durante un incidente mayor,,,,Opciones: Comandante de incidente; Comunicaciones; Escribano; Líder técnico; Ninguno definido
+Proceso de incidentes,"Herramientas de chat, tickets y postmortems",,,,
+Incidentes graves de los últimos 12 meses,Incidentes,1,Fecha,,Fecha
+Incidentes graves de los últimos 12 meses,Incidentes,1,Servicio,,
+Incidentes graves de los últimos 12 meses,Incidentes,1,Severidad,,Opciones: Sev1; Sev2; Sev3; Otra
+Incidentes graves de los últimos 12 meses,Incidentes,1,Duración (minutos),,Número
+Incidentes graves de los últimos 12 meses,Incidentes,1,Causa raíz e impacto,,
+Incidentes graves de los últimos 12 meses,Incidentes,2,Fecha,,Fecha
+Incidentes graves de los últimos 12 meses,Incidentes,2,Servicio,,
+Incidentes graves de los últimos 12 meses,Incidentes,2,Severidad,,Opciones: Sev1; Sev2; Sev3; Otra
+Incidentes graves de los últimos 12 meses,Incidentes,2,Duración (minutos),,Número
+Incidentes graves de los últimos 12 meses,Incidentes,2,Causa raíz e impacto,,
+Incidentes graves de los últimos 12 meses,Incidentes,3,Fecha,,Fecha
+Incidentes graves de los últimos 12 meses,Incidentes,3,Servicio,,
+Incidentes graves de los últimos 12 meses,Incidentes,3,Severidad,,Opciones: Sev1; Sev2; Sev3; Otra
+Incidentes graves de los últimos 12 meses,Incidentes,3,Duración (minutos),,Número
+Incidentes graves de los últimos 12 meses,Incidentes,3,Causa raíz e impacto,,
+Incidentes graves de los últimos 12 meses,Incidentes,4,Fecha,,Fecha
+Incidentes graves de los últimos 12 meses,Incidentes,4,Servicio,,
+Incidentes graves de los últimos 12 meses,Incidentes,4,Severidad,,Opciones: Sev1; Sev2; Sev3; Otra
+Incidentes graves de los últimos 12 meses,Incidentes,4,Duración (minutos),,Número
+Incidentes graves de los últimos 12 meses,Incidentes,4,Causa raíz e impacto,,
+Incidentes graves de los últimos 12 meses,Incidentes,5,Fecha,,Fecha
+Incidentes graves de los últimos 12 meses,Incidentes,5,Servicio,,
+Incidentes graves de los últimos 12 meses,Incidentes,5,Severidad,,Opciones: Sev1; Sev2; Sev3; Otra
+Incidentes graves de los últimos 12 meses,Incidentes,5,Duración (minutos),,Número
+Incidentes graves de los últimos 12 meses,Incidentes,5,Causa raíz e impacto,,
+Incidentes graves de los últimos 12 meses,Incidentes,6,Fecha,,Fecha
+Incidentes graves de los últimos 12 meses,Incidentes,6,Servicio,,
+Incidentes graves de los últimos 12 meses,Incidentes,6,Severidad,,Opciones: Sev1; Sev2; Sev3; Otra
+Incidentes graves de los últimos 12 meses,Incidentes,6,Duración (minutos),,Número
+Incidentes graves de los últimos 12 meses,Incidentes,6,Causa raíz e impacto,,
+Métricas globales,MTTR mediano (minutos),,,,Número
+Métricas globales,MTTA mediano (minutos),,,,Número
+Métricas globales,Incidentes graves por año,,,,Número
+Métricas globales,Fuente del dato,,,,
+Métricas globales,% de incidentes con postmortem,,,,Opciones: 0–25%; 26–50%; 51–75%; 76–100%
+Métricas globales,% de acciones de postmortem cerradas en plazo,,,,Opciones: Menos de 25%; 25–50%; 51–75%; Más de 75%; No lo sé

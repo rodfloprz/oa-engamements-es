@@ -1,0 +1,27 @@
+﻿Sección,Elemento,Detalle
+General,Fase,Growth & Value: Demostrar impacto y expandir resultados
+General,Estado,En desarrollo
+General,Esfuerzo estimado del equipo de Grafana,4–8 h
+General,Participantes sugeridos,Technical Champion; Responsables de producto internos; Patrocinador
+General,"Revisión del avance de su voz del cliente (VoC): estado de las solicitudes y comentarios que han hecho llegar a Grafana, respuestas del equipo de producto y siguientes pasos acordados.",
+Retos que resuelve,Solicitudes sin respuesta o sin estado visible,
+Retos que resuelve,Prioridades de producto desalineadas con necesidades del cliente,
+Retos que resuelve,Falta de seguimiento entre revisiones,
+Entregables obligatorios,Reporte de estado de solicitudes,
+Entregables obligatorios,Prioridades acordadas,
+Entregables opcionales,Plan de seguimiento,
+Cómo lo hacemos,1,Recopilación de solicitudes y su estado | 1–2 h
+Cómo lo hacemos,2,Alineación con producto sobre estado y plazos posibles | 1–2 h
+Cómo lo hacemos,3,Sesión con su equipo | 1–1.5 h
+Cómo lo hacemos,4,Actualización de prioridades y siguientes pasos | 0.5–1 h
+Qué necesitamos de su equipo,Participantes: Technical Champion,
+Qué necesitamos de su equipo,Participantes: Responsables de producto internos,
+Qué necesitamos de su equipo,Participantes: Patrocinador,
+Qué necesitamos de su equipo,Información y accesos: Lista de solicitudes y su impacto en el negocio,
+Qué necesitamos de su equipo,Información y accesos: Prioridades actuales,
+Qué necesitamos de su equipo,Información y accesos: Contactos para seguimiento,
+Cómo medimos el éxito,% de solicitudes con estado actualizado,
+Cómo medimos el éxito,Nº de solicitudes resueltas o planificadas,
+Cómo medimos el éxito,Satisfacción de la sesión (8 de 10 o más),
+Artefactos de levantamiento de información,Solicitudes de producto y voz del cliente,"Registrar las solicitudes de funcionalidad y problemas abiertos, con su impacto de negocio, para darles seguimiento con el equipo de producto."
+Artefactos de levantamiento de información,Objetivos y expectativas de negocio,"Entender qué resultados de negocio persigue su organización y qué iniciativas estratégicas dependen de la observabilidad, para que el Success Plan y los engagements se midan contra lo que importa."

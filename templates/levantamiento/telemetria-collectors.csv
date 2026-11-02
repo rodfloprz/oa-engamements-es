@@ -1,0 +1,36 @@
+﻿Sección,Campo,Fila,Columna,Valor,Opciones o ayuda
+Datos de contacto,Organización o cliente,,,,
+Datos de contacto,Nombre de quien responde,,,,
+Datos de contacto,Cargo o rol,,,,
+Datos de contacto,Correo de contacto,,,,Correo
+Datos de contacto,Engagement relacionado,,,,
+Datos de contacto,Fecha,,,,Fecha
+Señales y cobertura,Señales que recolectan,,,,Opciones: Métricas; Logs; Trazas; Perfiles; Eventos de usuario real
+Señales y cobertura,Servicios críticos con métricas,,,,Opciones: 0–25%; 26–50%; 51–75%; 76–100%; No lo sé
+Señales y cobertura,Servicios críticos con logs,,,,Opciones: 0–25%; 26–50%; 51–75%; 76–100%; No lo sé
+Señales y cobertura,Servicios críticos con trazas,,,,Opciones: 0–25%; 26–50%; 51–75%; 76–100%; No lo sé
+Señales y cobertura,Uso de OpenTelemetry,,,,Opciones: No lo usamos; En evaluación; Piloto; Estándar en proyectos nuevos; Estándar en toda la organización
+Señales y cobertura,Estrategia actual de muestreo y filtrado,,,,Texto libre
+Agentes y collectors,Agentes,1,Agente,,Opciones: Prometheus; Grafana Alloy; OpenTelemetry Collector; Datadog Agent; Fluent Bit / Fluentd; Filebeat / Logstash; Telegraf; Otro
+Agentes y collectors,Agentes,1,Versión,,
+Agentes y collectors,Agentes,1,Dónde se despliega,,
+Agentes y collectors,Agentes,1,Alta disponibilidad,,Opciones: Sí; Parcial; No
+Agentes y collectors,Agentes,1,Destino de los datos,,
+Agentes y collectors,Agentes,2,Agente,,Opciones: Prometheus; Grafana Alloy; OpenTelemetry Collector; Datadog Agent; Fluent Bit / Fluentd; Filebeat / Logstash; Telegraf; Otro
+Agentes y collectors,Agentes,2,Versión,,
+Agentes y collectors,Agentes,2,Dónde se despliega,,
+Agentes y collectors,Agentes,2,Alta disponibilidad,,Opciones: Sí; Parcial; No
+Agentes y collectors,Agentes,2,Destino de los datos,,
+Agentes y collectors,Agentes,3,Agente,,Opciones: Prometheus; Grafana Alloy; OpenTelemetry Collector; Datadog Agent; Fluent Bit / Fluentd; Filebeat / Logstash; Telegraf; Otro
+Agentes y collectors,Agentes,3,Versión,,
+Agentes y collectors,Agentes,3,Dónde se despliega,,
+Agentes y collectors,Agentes,3,Alta disponibilidad,,Opciones: Sí; Parcial; No
+Agentes y collectors,Agentes,3,Destino de los datos,,
+Agentes y collectors,Agentes,4,Agente,,Opciones: Prometheus; Grafana Alloy; OpenTelemetry Collector; Datadog Agent; Fluent Bit / Fluentd; Filebeat / Logstash; Telegraf; Otro
+Agentes y collectors,Agentes,4,Versión,,
+Agentes y collectors,Agentes,4,Dónde se despliega,,
+Agentes y collectors,Agentes,4,Alta disponibilidad,,Opciones: Sí; Parcial; No
+Agentes y collectors,Agentes,4,Destino de los datos,,
+Volumen y cardinalidad,Principales fuentes conocidas de alta cardinalidad,,,,Texto libre
+Volumen y cardinalidad,¿Hay jobs con intervalo de scrape menor a 15 segundos?,,,,Opciones: Sí; No; No lo sé
+Volumen y cardinalidad,¿Se envía la misma telemetría a más de un destino?,,,,Opciones: Sí; No; No lo sé

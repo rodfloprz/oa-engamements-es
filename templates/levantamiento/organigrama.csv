@@ -1,0 +1,57 @@
+﻿Sección,Campo,Fila,Columna,Valor,Opciones o ayuda
+Datos de contacto,Organización o cliente,,,,
+Datos de contacto,Nombre de quien responde,,,,
+Datos de contacto,Cargo o rol,,,,
+Datos de contacto,Correo de contacto,,,,Correo
+Datos de contacto,Engagement relacionado,,,,
+Datos de contacto,Fecha,,,,Fecha
+Contexto organizacional,Sector,,,,Opciones: Banca; Fintech y pagos; Seguros; Telecomunicaciones; Retail y comercio electrónico; Salud; Gobierno; Manufactura y energía; Tecnología y software; Otro
+Contexto organizacional,Colaboradores en la organización,,,,"Opciones: Menos de 500; 500–2,000; 2,001–10,000; Más de 10,000"
+Contexto organizacional,Colaboradores en tecnología,,,,"Opciones: Menos de 100; 100–500; 501–2,000; Más de 2,000"
+Contexto organizacional,Países o regiones donde operan,,,,
+Contexto organizacional,Líneas de negocio que dependen de los servicios digitales,,,,Texto libre
+Liderazgo y roles clave,Personas clave,1,Nombre,,
+Liderazgo y roles clave,Personas clave,1,Cargo y área,,
+Liderazgo y roles clave,Personas clave,1,Rol en observabilidad,,Opciones: Patrocinador ejecutivo; Decisor de presupuesto; Technical Champion; Líder de plataforma o SRE; Seguridad de la información; Finanzas o compras; Desarrollo; Operaciones; Otro
+Liderazgo y roles clave,Personas clave,1,Influencia,,Opciones: Alta; Media; Baja
+Liderazgo y roles clave,Personas clave,1,Contacto,,
+Liderazgo y roles clave,Personas clave,2,Nombre,,
+Liderazgo y roles clave,Personas clave,2,Cargo y área,,
+Liderazgo y roles clave,Personas clave,2,Rol en observabilidad,,Opciones: Patrocinador ejecutivo; Decisor de presupuesto; Technical Champion; Líder de plataforma o SRE; Seguridad de la información; Finanzas o compras; Desarrollo; Operaciones; Otro
+Liderazgo y roles clave,Personas clave,2,Influencia,,Opciones: Alta; Media; Baja
+Liderazgo y roles clave,Personas clave,2,Contacto,,
+Liderazgo y roles clave,Personas clave,3,Nombre,,
+Liderazgo y roles clave,Personas clave,3,Cargo y área,,
+Liderazgo y roles clave,Personas clave,3,Rol en observabilidad,,Opciones: Patrocinador ejecutivo; Decisor de presupuesto; Technical Champion; Líder de plataforma o SRE; Seguridad de la información; Finanzas o compras; Desarrollo; Operaciones; Otro
+Liderazgo y roles clave,Personas clave,3,Influencia,,Opciones: Alta; Media; Baja
+Liderazgo y roles clave,Personas clave,3,Contacto,,
+Liderazgo y roles clave,Personas clave,4,Nombre,,
+Liderazgo y roles clave,Personas clave,4,Cargo y área,,
+Liderazgo y roles clave,Personas clave,4,Rol en observabilidad,,Opciones: Patrocinador ejecutivo; Decisor de presupuesto; Technical Champion; Líder de plataforma o SRE; Seguridad de la información; Finanzas o compras; Desarrollo; Operaciones; Otro
+Liderazgo y roles clave,Personas clave,4,Influencia,,Opciones: Alta; Media; Baja
+Liderazgo y roles clave,Personas clave,4,Contacto,,
+Equipos de ingeniería y operación,Equipos,1,Equipo,,
+Equipos de ingeniería y operación,Equipos,1,Líder,,
+Equipos de ingeniería y operación,Equipos,1,Personas,,Número
+Equipos de ingeniería y operación,Equipos,1,Servicios que operan,,
+Equipos de ingeniería y operación,Equipos,1,¿Usa observabilidad hoy?,,Opciones: Sí; Parcial; No
+Equipos de ingeniería y operación,Equipos,2,Equipo,,
+Equipos de ingeniería y operación,Equipos,2,Líder,,
+Equipos de ingeniería y operación,Equipos,2,Personas,,Número
+Equipos de ingeniería y operación,Equipos,2,Servicios que operan,,
+Equipos de ingeniería y operación,Equipos,2,¿Usa observabilidad hoy?,,Opciones: Sí; Parcial; No
+Equipos de ingeniería y operación,Equipos,3,Equipo,,
+Equipos de ingeniería y operación,Equipos,3,Líder,,
+Equipos de ingeniería y operación,Equipos,3,Personas,,Número
+Equipos de ingeniería y operación,Equipos,3,Servicios que operan,,
+Equipos de ingeniería y operación,Equipos,3,¿Usa observabilidad hoy?,,Opciones: Sí; Parcial; No
+Equipos de ingeniería y operación,Equipos,4,Equipo,,
+Equipos de ingeniería y operación,Equipos,4,Líder,,
+Equipos de ingeniería y operación,Equipos,4,Personas,,Número
+Equipos de ingeniería y operación,Equipos,4,Servicios que operan,,
+Equipos de ingeniería y operación,Equipos,4,¿Usa observabilidad hoy?,,Opciones: Sí; Parcial; No
+Gobierno de observabilidad,¿Existe un equipo central de plataforma o SRE?,,,,Opciones: Sí; En formación; No
+Gobierno de observabilidad,¿Quién decide el presupuesto y el tooling de observabilidad?,,,,
+Gobierno de observabilidad,"Comités, aprobaciones o procesos que afectan los cambios",,,,Texto libre
+Gobierno de observabilidad,Ventanas de cambio habituales,,,,
+Gobierno de observabilidad,Zonas horarias de los equipos,,,,

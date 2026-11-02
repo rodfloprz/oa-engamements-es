@@ -1,0 +1,37 @@
+﻿Sección,Elemento,Detalle
+General,Fase,"Cost, Security & Governance: Escalar con control"
+General,Estado,Disponible
+General,Esfuerzo estimado del equipo de Grafana,16–32 h
+General,Participantes sugeridos,Líder de plataforma; Responsable financiero; Equipos generadores de telemetría
+General,"Ajustamos retención, muestreo y cardinalidad, introducimos dashboards de uso para ver volumen, costo y ahorros, y definimos alertas para presupuestos, con un ahorro medido en dólares.",
+Retos que resuelve,Sobrecostos sin aviso previo,
+Retos que resuelve,Alta cardinalidad sin gestión,
+Retos que resuelve,DPM descontrolado por scrapers mal configurados,
+Retos que resuelve,Sin dashboards de costo por equipo o servicio,
+Retos que resuelve,Ingesta duplicada de métricas,
+Retos que resuelve,Retención excesiva de datos poco consultados,
+Entregables obligatorios,Reporte de línea base de costos,
+Entregables obligatorios,Reporte de ahorro en dólares,
+Entregables opcionales,Dashboard de ahorro de Adaptive Telemetry,
+Entregables opcionales,Dashboards de atribución por equipo,
+Entregables opcionales,Estrategia de alertas de ingesta y DPM,
+Cómo lo hacemos,1,Fase 1. Revisión de consumo y health check | 2–4 h
+Cómo lo hacemos,2,"Fase 2a. Investigación de DPM alto, uso de consultas e histogramas | 4–10 h"
+Cómo lo hacemos,3,"Fase 2b. Adaptive Telemetry, atribución de costos y estrategia de alertas | 4–10 h"
+Cómo lo hacemos,4,Fase 3. Mejora continua: reporte y actualización del Success Plan | 2–4 h
+Qué necesitamos de su equipo,Participantes: Líder de plataforma,
+Qué necesitamos de su equipo,Participantes: Responsable financiero,
+Qué necesitamos de su equipo,Participantes: Equipos generadores de telemetría,
+Qué necesitamos de su equipo,Información y accesos: Facturas y dashboard de facturación,
+Qué necesitamos de su equipo,Información y accesos: Lista de equipos y servicios,
+Qué necesitamos de su equipo,Información y accesos: Aprobación para aplicar cambios de muestreo y retención,
+Cómo medimos el éxito,% de reducción de DPM,
+Cómo medimos el éxito,Ahorro mensual documentado (USD),
+Cómo medimos el éxito,% de reducción de cardinalidad,
+Cómo medimos el éxito,Cobertura de atribución de costos por equipo,
+Cómo medimos el éxito,Tiempo hasta la primera alerta de un pico de costo,
+Artefactos de levantamiento de información,Costos y consumo de observabilidad,"Levantar el consumo actual, los principales generadores de costo y el nivel de gobierno de costos, para explicar la factura y priorizar las palancas de ahorro."
+Artefactos de levantamiento de información,"Telemetría, agentes y collectors","Conocer qué señales recolectan, con qué agentes y con qué cobertura, para diseñar la topología de collectors, el muestreo y la reducción de ingesta."
+Artefactos de levantamiento de información,Herramientas de observabilidad y monitoreo,"Inventariar las herramientas de monitoreo y observabilidad en uso, incluidos los productos de Grafana, para entender el panorama, los traslapes y las oportunidades de consolidación."
+Artefactos de levantamiento de información,Datos para el cálculo de valor y línea base de KPIs,"Reunir los valores de partida (con definición, ventana y fuente) y los datos financieros que su equipo valida, para poder demostrar el retorno con evidencia."
+Artefactos de levantamiento de información,Organigrama y datos organizacionales,"Conocer la estructura de su organización en lo que respecta al negocio y a la observabilidad: quién patrocina, quién decide, quién opera y quién usa la plataforma, para dirigir cada conversación a la persona correcta."

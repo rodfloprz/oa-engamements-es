@@ -1,0 +1,31 @@
+﻿Sección,Elemento,Detalle
+General,Fase,Enable & Adopt: Construir capacidad duradera
+General,Estado,Disponible
+General,Esfuerzo estimado del equipo de Grafana,4–8 h
+General,Participantes sugeridos,Technical Champion; Equipo de plataforma; Equipos de operación y SRE
+General,"Workshop educativo para clientes de Grafana Enterprise autogestionado que usan Prometheus o Mimir, Loki, Tempo y OpenTelemetry. Enseña el flujo detectar, acotar, investigar y explicar, sin trabajo práctico de su equipo.",
+Retos que resuelve,"Poca explotación de la correlación entre métricas, logs y trazas",
+Retos que resuelve,Investigaciones lentas por falta de un flujo común,
+Retos que resuelve,Conocimiento concentrado en una persona,
+Retos que resuelve,Operación de la plataforma sin prácticas de referencia,
+Entregables obligatorios,Material del workshop,
+Entregables obligatorios,Resumen de prácticas recomendadas,
+Entregables opcionales,Lista de siguientes pasos,
+Cómo lo hacemos,1,Preparación: entender su stack (versiones y topología) | 1–2 h
+Cómo lo hacemos,2,"Workshop: detectar, acotar, investigar, explicar | 2–3 h"
+Cómo lo hacemos,3,Demo guiada sobre escenarios de su entorno | 1–2 h
+Cómo lo hacemos,4,Resumen y recomendaciones | 0.5–1 h
+Qué necesitamos de su equipo,Participantes: Technical Champion,
+Qué necesitamos de su equipo,Participantes: Equipo de plataforma,
+Qué necesitamos de su equipo,Participantes: Equipos de operación y SRE,
+Qué necesitamos de su equipo,Información y accesos: Diagrama de su topología y versiones,
+Qué necesitamos de su equipo,Información y accesos: Dos casos de incidentes recientes,
+Qué necesitamos de su equipo,Información y accesos: Acceso a un entorno de demostración o no productivo,
+Cómo medimos el éxito,Satisfacción del workshop (8 de 10 o más),
+Cómo medimos el éxito,% de asistentes que aplican una práctica a 30 días,
+Cómo medimos el éxito,Reducción de tickets de soporte básicos,
+Cómo medimos el éxito,Nº de equipos que replican el flujo,
+Artefactos de levantamiento de información,Tecnologías en uso,"Registrar las tecnologías que usa hoy su organización (lenguajes, bases de datos, mensajería, plataformas, nubes y herramientas de despliegue) para planear la instrumentación y las integraciones."
+Artefactos de levantamiento de información,Herramientas de observabilidad y monitoreo,"Inventariar las herramientas de monitoreo y observabilidad en uso, incluidos los productos de Grafana, para entender el panorama, los traslapes y las oportunidades de consolidación."
+Artefactos de levantamiento de información,"Telemetría, agentes y collectors","Conocer qué señales recolectan, con qué agentes y con qué cobertura, para diseñar la topología de collectors, el muestreo y la reducción de ingesta."
+Artefactos de levantamiento de información,Incidentes y MTTR,"Documentar cómo gestionan los incidentes y cuál ha sido su historial reciente, para establecer la línea base de MTTR y priorizar runbooks y mejoras de proceso."

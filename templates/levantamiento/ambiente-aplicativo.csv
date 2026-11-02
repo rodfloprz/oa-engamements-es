@@ -1,0 +1,53 @@
+﻿Sección,Campo,Fila,Columna,Valor,Opciones o ayuda
+Datos de contacto,Organización o cliente,,,,
+Datos de contacto,Nombre de quien responde,,,,
+Datos de contacto,Cargo o rol,,,,
+Datos de contacto,Correo de contacto,,,,Correo
+Datos de contacto,Engagement relacionado,,,,
+Datos de contacto,Fecha,,,,Fecha
+Panorama general,Arquitectura predominante,,,,Opciones: Monolitos; Microservicios; Mixta; Incluye mainframe y sistemas heredados
+Panorama general,Servicios o aplicaciones (aproximado),,,,Opciones: Menos de 25; 25–100; 101–500; Más de 500
+Panorama general,Frecuencia de despliegues a producción,,,,Opciones: Mensual o menos; Semanal; Diaria; Varias veces al día
+Panorama general,Entornos,,,,Opciones: Producción; Preproducción o staging; Desarrollo; Contingencia o DR
+Aplicaciones y servicios,Aplicaciones,1,Aplicación o servicio,,
+Aplicaciones y servicios,Aplicaciones,1,Equipo responsable,,
+Aplicaciones y servicios,Aplicaciones,1,Criticidad,,Opciones: P0 crítico; P1 alto; P2 medio; P3 bajo
+Aplicaciones y servicios,Aplicaciones,1,Tipo,,Opciones: Web o móvil; API; Batch; Mensajería; Datos; Otro
+Aplicaciones y servicios,Aplicaciones,1,Dónde corre,,Opciones: Kubernetes; Máquinas virtuales; Serverless; On-prem; Mainframe; SaaS
+Aplicaciones y servicios,Aplicaciones,2,Aplicación o servicio,,
+Aplicaciones y servicios,Aplicaciones,2,Equipo responsable,,
+Aplicaciones y servicios,Aplicaciones,2,Criticidad,,Opciones: P0 crítico; P1 alto; P2 medio; P3 bajo
+Aplicaciones y servicios,Aplicaciones,2,Tipo,,Opciones: Web o móvil; API; Batch; Mensajería; Datos; Otro
+Aplicaciones y servicios,Aplicaciones,2,Dónde corre,,Opciones: Kubernetes; Máquinas virtuales; Serverless; On-prem; Mainframe; SaaS
+Aplicaciones y servicios,Aplicaciones,3,Aplicación o servicio,,
+Aplicaciones y servicios,Aplicaciones,3,Equipo responsable,,
+Aplicaciones y servicios,Aplicaciones,3,Criticidad,,Opciones: P0 crítico; P1 alto; P2 medio; P3 bajo
+Aplicaciones y servicios,Aplicaciones,3,Tipo,,Opciones: Web o móvil; API; Batch; Mensajería; Datos; Otro
+Aplicaciones y servicios,Aplicaciones,3,Dónde corre,,Opciones: Kubernetes; Máquinas virtuales; Serverless; On-prem; Mainframe; SaaS
+Aplicaciones y servicios,Aplicaciones,4,Aplicación o servicio,,
+Aplicaciones y servicios,Aplicaciones,4,Equipo responsable,,
+Aplicaciones y servicios,Aplicaciones,4,Criticidad,,Opciones: P0 crítico; P1 alto; P2 medio; P3 bajo
+Aplicaciones y servicios,Aplicaciones,4,Tipo,,Opciones: Web o móvil; API; Batch; Mensajería; Datos; Otro
+Aplicaciones y servicios,Aplicaciones,4,Dónde corre,,Opciones: Kubernetes; Máquinas virtuales; Serverless; On-prem; Mainframe; SaaS
+Aplicaciones y servicios,Aplicaciones,5,Aplicación o servicio,,
+Aplicaciones y servicios,Aplicaciones,5,Equipo responsable,,
+Aplicaciones y servicios,Aplicaciones,5,Criticidad,,Opciones: P0 crítico; P1 alto; P2 medio; P3 bajo
+Aplicaciones y servicios,Aplicaciones,5,Tipo,,Opciones: Web o móvil; API; Batch; Mensajería; Datos; Otro
+Aplicaciones y servicios,Aplicaciones,5,Dónde corre,,Opciones: Kubernetes; Máquinas virtuales; Serverless; On-prem; Mainframe; SaaS
+Aplicaciones y servicios,Aplicaciones,6,Aplicación o servicio,,
+Aplicaciones y servicios,Aplicaciones,6,Equipo responsable,,
+Aplicaciones y servicios,Aplicaciones,6,Criticidad,,Opciones: P0 crítico; P1 alto; P2 medio; P3 bajo
+Aplicaciones y servicios,Aplicaciones,6,Tipo,,Opciones: Web o móvil; API; Batch; Mensajería; Datos; Otro
+Aplicaciones y servicios,Aplicaciones,6,Dónde corre,,Opciones: Kubernetes; Máquinas virtuales; Serverless; On-prem; Mainframe; SaaS
+Journeys críticos de negocio,Journeys,1,Journey,,
+Journeys críticos de negocio,Journeys,1,Qué hace el usuario,,
+Journeys críticos de negocio,Journeys,1,Servicios involucrados,,
+Journeys críticos de negocio,Journeys,1,Impacto si falla,,
+Journeys críticos de negocio,Journeys,2,Journey,,
+Journeys críticos de negocio,Journeys,2,Qué hace el usuario,,
+Journeys críticos de negocio,Journeys,2,Servicios involucrados,,
+Journeys críticos de negocio,Journeys,2,Impacto si falla,,
+Journeys críticos de negocio,Journeys,3,Journey,,
+Journeys críticos de negocio,Journeys,3,Qué hace el usuario,,
+Journeys críticos de negocio,Journeys,3,Servicios involucrados,,
+Journeys críticos de negocio,Journeys,3,Impacto si falla,,

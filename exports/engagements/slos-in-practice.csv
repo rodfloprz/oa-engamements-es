@@ -1,0 +1,38 @@
+﻿Sección,Elemento,Detalle
+General,Fase,Reliability & Response: Proteger los journeys del cliente
+General,Estado,Disponible
+General,Esfuerzo estimado del equipo de Grafana,16–24 h
+General,Participantes sugeridos,Líder de SRE; Dueños de producto de los servicios críticos; Technical Champion
+General,"Definimos SLIs y SLOs para sus journeys clave, establecemos presupuestos de error, construimos dashboards de SLO y conectamos las alertas a esos presupuestos para alinear la operación con el impacto en el usuario.",
+Retos que resuelve,Fatiga de alertas: todo parece un problema,
+Retos que resuelve,Sin definición de cuánto error es aceptable,
+Retos que resuelve,MTTA y MTTR altos por falta de priorización,
+Retos que resuelve,Incumplimientos de SLA sin aviso previo,
+Retos que resuelve,Exceso de SLOs poco útiles,
+Entregables obligatorios,Definiciones de SLO por servicio crítico,
+Entregables obligatorios,Dashboards de SLO,
+Entregables opcionales,Calculadora de presupuesto de error configurada,
+Entregables opcionales,Alertas basadas en SLO,
+Entregables opcionales,Documento de cadencia de revisión,
+Entregables opcionales,Dashboard de madurez de SLO,
+Cómo lo hacemos,1,"Descubrimiento: journeys críticos, SLAs contractuales e incidentes pasados | 2 h"
+Cómo lo hacemos,2,Workshop de SLO con el equipo SRE | 3–4 h
+Cómo lo hacemos,3,Configuración de SLOs en Grafana (3 a 5 por servicio crítico) | 4–6 h
+Cómo lo hacemos,4,Dashboards de SLO y alertas de burn rate | 3–4 h
+Cómo lo hacemos,5,Evaluación de madurez y cadencia de revisión | 2 h
+Cómo lo hacemos,6,Revisión a los 30 días | 1–2 h
+Qué necesitamos de su equipo,Participantes: Líder de SRE,
+Qué necesitamos de su equipo,Participantes: Dueños de producto de los servicios críticos,
+Qué necesitamos de su equipo,Participantes: Technical Champion,
+Qué necesitamos de su equipo,Información y accesos: Lista de servicios y journeys críticos,
+Qué necesitamos de su equipo,Información y accesos: Contratos o compromisos de SLA,
+Qué necesitamos de su equipo,Información y accesos: Historial de incidentes de los últimos 12 meses,
+Cómo medimos el éxito,Nº de SLOs en servicios críticos (3 a 5 por servicio),
+Cómo medimos el éxito,SLO attainment (actual contra meta),
+Cómo medimos el éxito,Burn rate del presupuesto de error,
+Cómo medimos el éxito,Reducción del ruido de alertas,
+Cómo medimos el éxito,Reducción de MTTA,
+Artefactos de levantamiento de información,Ambiente aplicativo,"Levantar el inventario de aplicaciones y servicios, su criticidad y los journeys de negocio que soportan, para priorizar qué observar primero y dónde definir SLOs."
+Artefactos de levantamiento de información,"SLAs, SLOs y journeys críticos","Recopilar los compromisos de servicio, los SLOs ya existentes y las prácticas de presupuesto de error, para definir SLOs alineados con el impacto en el usuario."
+Artefactos de levantamiento de información,Incidentes y MTTR,"Documentar cómo gestionan los incidentes y cuál ha sido su historial reciente, para establecer la línea base de MTTR y priorizar runbooks y mejoras de proceso."
+Artefactos de levantamiento de información,Alertas y guardia (on-call),"Medir el volumen y la calidad de las alertas y entender cómo funciona la guardia, para reducir ruido, enriquecer las alertas con contexto y ordenar el escalamiento."

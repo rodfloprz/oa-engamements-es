@@ -1,0 +1,30 @@
+﻿Sección,Campo,Fila,Columna,Valor,Opciones o ayuda
+Datos de contacto,Organización o cliente,,,,
+Datos de contacto,Nombre de quien responde,,,,
+Datos de contacto,Cargo o rol,,,,
+Datos de contacto,Correo de contacto,,,,Correo
+Datos de contacto,Engagement relacionado,,,,
+Datos de contacto,Fecha,,,,Fecha
+Identidad y acceso,Proveedor de identidad,,,,Opciones: Okta; Microsoft Entra ID; Ping Identity; Keycloak; Google Workspace; Otro; Ninguno
+Identidad y acceso,SSO configurado en Grafana,,,,Opciones: Sí; En proceso; No
+Identidad y acceso,Mapeo de grupos del proveedor de identidad a roles,,,,Opciones: Sí; Parcial; No
+Identidad y acceso,Administradores de Grafana,,,,Número
+Identidad y acceso,Cuentas de servicio y tokens existentes,,,,Número
+Identidad y acceso,¿Hay tokens o cuentas sin responsable?,,,,Opciones: Sí; No; No lo sé
+Roles actuales,Roles,1,Rol,,
+Roles actuales,Roles,1,Equipos,,
+Roles actuales,Roles,1,Permisos,,
+Roles actuales,Roles,1,Datos accesibles,,
+Roles actuales,Roles,2,Rol,,
+Roles actuales,Roles,2,Equipos,,
+Roles actuales,Roles,2,Permisos,,
+Roles actuales,Roles,2,Datos accesibles,,
+Roles actuales,Roles,3,Rol,,
+Roles actuales,Roles,3,Equipos,,
+Roles actuales,Roles,3,Permisos,,
+Roles actuales,Roles,3,Datos accesibles,,
+Cumplimiento y datos sensibles,Marcos aplicables,,,,"Opciones: PCI DSS; ISO 27001; SOC 2; Regulador financiero local; Protección de datos personales (LGPD, GDPR u otra); Normativa sectorial; Otro"
+Cumplimiento y datos sensibles,Datos de telemetría considerados sensibles,,,,Texto libre
+Cumplimiento y datos sensibles,Cómo se gestionan y rotan los secretos,,,,Texto libre
+Cumplimiento y datos sensibles,Qué se audita y por cuánto tiempo se conserva,,,,Texto libre
+Cumplimiento y datos sensibles,Aprobaciones de seguridad para nuevos agentes o integraciones,,,,

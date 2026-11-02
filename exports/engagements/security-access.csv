@@ -1,0 +1,37 @@
+﻿Sección,Elemento,Detalle
+General,Fase,"Cost, Security & Governance: Escalar con control"
+General,Estado,Disponible
+General,Esfuerzo estimado del equipo de Grafana,16–24 h
+General,Participantes sugeridos,Seguridad de la información; Administradores de Grafana; Technical Champion
+General,"Diseñamos control de acceso basado en roles y SSO para Grafana y sus fuentes de datos, límites entre tenants, gestión de secretos y registros de auditoría para un acceso seguro a los datos.",
+Retos que resuelve,Brechas de cumplimiento,
+Retos que resuelve,Acceso no controlado,
+Retos que resuelve,Riesgo regulatorio,
+Retos que resuelve,Tokens y cuentas de servicio sin responsable,
+Retos que resuelve,Datos sensibles visibles para quien no los necesita,
+Entregables obligatorios,Diseño de RBAC y SSO,
+Entregables obligatorios,Plan de remediación,
+Entregables opcionales,Inventario de accesos,
+Entregables opcionales,Diseño de aislamiento por tenant,
+Entregables opcionales,Procedimiento de gestión de secretos,
+Entregables opcionales,Configuración de auditoría,
+Cómo lo hacemos,1,Inventario de accesos y roles | 2–3 h
+Cómo lo hacemos,2,Diseño de RBAC y SSO con mapeo a grupos del proveedor de identidad | 3–4 h
+Cómo lo hacemos,3,Límites entre tenants y estrategia de labels para control de acceso | 3–5 h
+Cómo lo hacemos,4,Gestión de secretos y rotación de tokens | 2–3 h
+Cómo lo hacemos,5,Registros de auditoría | 2–3 h
+Cómo lo hacemos,6,Implementación piloto y validación | 3–4 h
+Cómo lo hacemos,7,Reporte de hallazgos y plan de remediación | 1–2 h
+Qué necesitamos de su equipo,Participantes: Seguridad de la información,
+Qué necesitamos de su equipo,Participantes: Administradores de Grafana,
+Qué necesitamos de su equipo,Participantes: Technical Champion,
+Qué necesitamos de su equipo,Información y accesos: Proveedor de identidad y estructura de grupos,
+Qué necesitamos de su equipo,Información y accesos: Matriz de roles actual,
+Qué necesitamos de su equipo,Información y accesos: Marcos de cumplimiento aplicables,
+Cómo medimos el éxito,Compliance score o hallazgos de auditoría antes y después,
+Cómo medimos el éxito,% de usuarios con acceso por grupo del proveedor de identidad,
+Cómo medimos el éxito,Nº de cuentas y tokens sin responsable,
+Cómo medimos el éxito,Cobertura de registros de auditoría,
+Artefactos de levantamiento de información,"Seguridad, identidad y cumplimiento","Conocer su proveedor de identidad, los roles de acceso, los marcos de cumplimiento y la gestión de secretos, para diseñar un acceso seguro a los datos de telemetría."
+Artefactos de levantamiento de información,Organigrama y datos organizacionales,"Conocer la estructura de su organización en lo que respecta al negocio y a la observabilidad: quién patrocina, quién decide, quién opera y quién usa la plataforma, para dirigir cada conversación a la persona correcta."
+Artefactos de levantamiento de información,Convenciones de nombres y labels,Documentar los labels y convenciones que usan hoy los equipos para definir un estándar común que permita correlacionar señales y controlar la cardinalidad.
